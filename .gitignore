@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.*
+vite-env.d.ts
+env/
+__pycache__/
+*.pyc

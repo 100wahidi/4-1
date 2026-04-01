@@ -1,0 +1,7 @@
+pandas 
+pandera 
+uvicorn 
+fastapi 
+numpy 
+psycopg2
+typing
