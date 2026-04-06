@@ -1,6 +1,7 @@
 import { createElement } from "react";
 import { createBrowserRouter, Navigate } from "react-router-dom";
 import Login from "./pages/Login";
+import KRICalculator from "./pages/KRICalculator";
 import Overview from "./pages/Overview";
 import KRIAnalytics from "./pages/KRIAnalytics";
 import TechnicalDataQuality from "./pages/TechnicalDataQuality";
@@ -8,11 +9,15 @@ import TechnicalDataQuality from "./pages/TechnicalDataQuality";
 export const router = createBrowserRouter([
   {
     path: "/",
-    element: createElement(Navigate, { to: "/login", replace: true }),
+    element: createElement(Navigate, { to: "/kri-calculation", replace: true }),
   },
   {
     path: "/login",
     element: createElement(Login),
+  },
+  {
+    path: "/kri-calculation",
+    element: createElement(KRICalculator),
   },
   {
     path: "/overview",

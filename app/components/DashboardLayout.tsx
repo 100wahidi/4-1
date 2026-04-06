@@ -1,4 +1,4 @@
-import { BarChart3, Database, LayoutDashboard, LogOut, PanelLeft, ShieldCheck } from 'lucide-react';
+import { BarChart3, Calculator, Database, LayoutDashboard, LogOut, PanelLeft, ShieldCheck } from 'lucide-react';
 import { signOut } from 'firebase/auth';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
 import { auth } from '../lib/firebase.ts';
@@ -8,6 +8,11 @@ type DashboardLayoutProps = {
 };
 
 const navItems = [
+  {
+    to: '/kri-calculation',
+    label: 'KRI Calculator',
+    icon: Calculator,
+  },
   {
     to: '/overview',
     label: 'Overview',
@@ -37,8 +42,8 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
     <div className="min-h-screen bg-background text-foreground lg:flex">
       <aside className="border-b border-sidebar-border bg-sidebar/95 lg:fixed lg:inset-y-0 lg:left-0 lg:z-20 lg:flex lg:w-[280px] lg:flex-col lg:border-b-0 lg:border-r">
         <div className="flex items-center justify-between border-b border-white/5 px-5 py-4 lg:justify-start lg:gap-3">
-          <Link to="/overview" className="flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-primary/20 text-primary shadow-[0_0_0_1px_rgba(124,92,255,0.25)]">
+          <Link to="/kri-calculation" className="flex items-center gap-3">
+            <div className="flex h-10 w-10 items-center justify-center rounded-2xl bg-primary/20 text-primary shadow-[0_0_0_1px_rgba(255,77,141,0.28)]">
               <ShieldCheck className="h-5 w-5" />
             </div>
             <div>
@@ -68,7 +73,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
                   [
                     'flex items-center gap-3 rounded-2xl px-4 py-3 text-sm font-medium transition-colors',
                     isActive
-                      ? 'bg-primary text-white shadow-[0_10px_30px_rgba(124,92,255,0.25)]'
+                      ? 'bg-primary text-white shadow-[0_10px_30px_rgba(255,77,141,0.28)]'
                       : 'text-slate-300 hover:bg-white/5 hover:text-white',
                   ].join(' ')
                 }

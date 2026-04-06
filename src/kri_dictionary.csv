@@ -1,0 +1,61 @@
+kri_id,kri_group,kri_label
+KRI001,Elearning Kri,Overdue elearning
+KRI002,Overdue Kri,Deadline overdue
+KRI003,Overdue Kri,Not in time
+KRI004,Elearning Kri,Training overdue
+KRI005,Overdue Kri,Policy overdue
+KRI006,PnL Kri,Unexpected loss
+KRI007,PnL Kri,Profit below threshold
+KRI008,Risk Kri,Breached limit
+KRI009,Risk Kri,Delayed action
+KRI010,Control Kri,Missing control review
+KRI011,Control Kri,Incomplete attestation
+KRI012,Compliance Kri,Regulatory overdue
+KRI013,Compliance Kri,Certification overdue
+KRI014,HR Kri,Employee record overdue
+KRI015,HR Kri,Mandatory update overdue
+KRI016,IT Kri,System patch overdue
+KRI017,IT Kri,Access review overdue
+KRI018,Ops Kri,Process overdue
+KRI019,Ops Kri,Operational delay
+KRI020,Sales Kri,Pipeline stale
+KRI021,Sales Kri,Deal overdue
+KRI022,Finance Kri,Invoice overdue
+KRI023,Finance Kri,Payment overdue
+KRI024,Treasury Kri,Cash limit breach
+KRI025,Market Kri,Exposure breach
+KRI026,Market Kri,Threshold exceeded
+KRI027,Credit Kri,Review overdue
+KRI028,Credit Kri,Limit overdue
+KRI029,Audit Kri,Audit action overdue
+KRI030,Audit Kri,Finding overdue
+KRI031,Data Kri,Data quality overdue
+KRI032,Data Kri,Correction overdue
+KRI033,Legal Kri,Contract overdue
+KRI034,Legal Kri,Approval overdue
+KRI035,Project Kri,Milestone overdue
+KRI036,Project Kri,Delivery overdue
+KRI037,Vendor Kri,Vendor review overdue
+KRI038,Vendor Kri,Renewal overdue
+KRI039,Customer Kri,Complaint overdue
+KRI040,Customer Kri,Response overdue
+KRI041,Security Kri,Incident overdue
+KRI042,Security Kri,Remediation overdue
+KRI043,Environment Kri,Sustainability overdue
+KRI044,Environment Kri,Assessment overdue
+KRI045,Travel Kri,Expense overdue
+KRI046,Travel Kri,Approval missing
+KRI047,Payroll Kri,Payroll overdue
+KRI048,Payroll Kri,Validation overdue
+KRI049,Procurement Kri,Purchase overdue
+KRI050,Procurement Kri,Order overdue
+KRI051,General Kri,Action overdue
+KRI052,General Kri,Deadline missed
+KRI053,General Kri,Pending escalation
+KRI054,General Kri,Open breach
+KRI055,General Kri,Non-compliant timing
+KRI056,General Kri,Late completion
+KRI057,General Kri,Expired review
+KRI058,General Kri,Unresolved breach
+KRI059,General Kri,SLA overdue
+KRI060,General Kri,Follow-up overdue

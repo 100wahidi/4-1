@@ -1,0 +1,2001 @@
+ggi,common_name,employee_region,trading_or_sales_desk
+100001,Amir El Mansouri,Morocco,Trading
+100002,Sara El Fassi,France,Sales
+100003,Youssef Romano,London,Trading
+100004,Nadia Chen,Italy,Sales
+100005,Thomas Ait Said,China,Trading
+100006,Emily Martin,Asia,Sales
+100007,Luca Rossi,Morocco,Trading
+100008,Giulia Sharma,France,Sales
+100009,Wei Bouziane,London,Trading
+100010,Mei Hughes,Italy,Sales
+100011,Hana Rinaldi,China,Trading
+100012,Arjun Amrani,Asia,Sales
+100013,Karim El Mansouri,Morocco,Trading
+100014,Salma El Fassi,France,Sales
+100015,Pierre Romano,London,Trading
+100016,Claire Chen,Italy,Sales
+100017,James Ait Said,China,Trading
+100018,Sophia Martin,Asia,Sales
+100019,Mario Rossi,Morocco,Trading
+100020,Elena Sharma,France,Sales
+100021,Li Bouziane,London,Trading
+100022,Jian Hughes,Italy,Sales
+100023,Ravi Rinaldi,China,Trading
+100024,Priya Amrani,Asia,Sales
+100025,Omar El Mansouri,Morocco,Trading
+100026,Hajar El Fassi,France,Sales
+100027,Luc Romano,London,Trading
+100028,Camille Chen,Italy,Sales
+100029,Oliver Ait Said,China,Trading
+100030,Charlotte Martin,Asia,Sales
+100031,Andrea Rossi,Morocco,Trading
+100032,Francesca Sharma,France,Sales
+100033,Yang Bouziane,London,Trading
+100034,Ananya Hughes,Italy,Sales
+100035,Dev Rinaldi,China,Trading
+100036,Yassine Amrani,Asia,Sales
+100037,Imane El Mansouri,Morocco,Trading
+100038,Antoine El Fassi,France,Sales
+100039,Julie Romano,London,Trading
+100040,Amir Chen,Italy,Sales
+100041,Sara Ait Said,China,Trading
+100042,Youssef Martin,Asia,Sales
+100043,Nadia Rossi,Morocco,Trading
+100044,Thomas Sharma,France,Sales
+100045,Emily Bouziane,London,Trading
+100046,Luca Hughes,Italy,Sales
+100047,Giulia Rinaldi,China,Trading
+100048,Wei Amrani,Asia,Sales
+100049,Mei El Mansouri,Morocco,Trading
+100050,Hana El Fassi,France,Sales
+100051,Arjun Romano,London,Trading
+100052,Karim Chen,Italy,Sales
+100053,Salma Ait Said,China,Trading
+100054,Pierre Martin,Asia,Sales
+100055,Claire Rossi,Morocco,Trading
+100056,James Sharma,France,Sales
+100057,Sophia Bouziane,London,Trading
+100058,Mario Hughes,Italy,Sales
+100059,Elena Rinaldi,China,Trading
+100060,Li Amrani,Asia,Sales
+100061,Jian El Mansouri,Morocco,Trading
+100062,Ravi El Fassi,France,Sales
+100063,Priya Romano,London,Trading
+100064,Omar Chen,Italy,Sales
+100065,Hajar Ait Said,China,Trading
+100066,Luc Martin,Asia,Sales
+100067,Camille Rossi,Morocco,Trading
+100068,Oliver Sharma,France,Sales
+100069,Charlotte Bouziane,London,Trading
+100070,Andrea Hughes,Italy,Sales
+100071,Francesca Rinaldi,China,Trading
+100072,Yang Amrani,Asia,Sales
+100073,Ananya El Mansouri,Morocco,Trading
+100074,Dev El Fassi,France,Sales
+100075,Yassine Romano,London,Trading
+100076,Imane Chen,Italy,Sales
+100077,Antoine Ait Said,China,Trading
+100078,Julie Martin,Asia,Sales
+100079,Amir Rossi,Morocco,Trading
+100080,Sara Sharma,France,Sales
+100081,Youssef Bouziane,London,Trading
+100082,Nadia Hughes,Italy,Sales
+100083,Thomas Rinaldi,China,Trading
+100084,Emily Amrani,Asia,Sales
+100085,Luca El Mansouri,Morocco,Trading
+100086,Giulia El Fassi,France,Sales
+100087,Wei Romano,London,Trading
+100088,Mei Chen,Italy,Sales
+100089,Hana Ait Said,China,Trading
+100090,Arjun Martin,Asia,Sales
+100091,Karim Rossi,Morocco,Trading
+100092,Salma Sharma,France,Sales
+100093,Pierre Bouziane,London,Trading
+100094,Claire Hughes,Italy,Sales
+100095,James Rinaldi,China,Trading
+100096,Sophia Amrani,Asia,Sales
+100097,Mario El Mansouri,Morocco,Trading
+100098,Elena El Fassi,France,Sales
+100099,Li Romano,London,Trading
+100100,Jian Chen,Italy,Sales
+100101,Ravi Ait Said,China,Trading
+100102,Priya Martin,Asia,Sales
+100103,Omar Rossi,Morocco,Trading
+100104,Hajar Sharma,France,Sales
+100105,Luc Bouziane,London,Trading
+100106,Camille Hughes,Italy,Sales
+100107,Oliver Rinaldi,China,Trading
+100108,Charlotte Amrani,Asia,Sales
+100109,Andrea El Mansouri,Morocco,Trading
+100110,Francesca El Fassi,France,Sales
+100111,Yang Romano,London,Trading
+100112,Ananya Chen,Italy,Sales
+100113,Dev Ait Said,China,Trading
+100114,Yassine Martin,Asia,Sales
+100115,Imane Rossi,Morocco,Trading
+100116,Antoine Sharma,France,Sales
+100117,Julie Bouziane,London,Trading
+100118,Amir Hughes,Italy,Sales
+100119,Sara Rinaldi,China,Trading
+100120,Youssef Amrani,Asia,Sales
+100121,Nadia El Mansouri,Morocco,Trading
+100122,Thomas El Fassi,France,Sales
+100123,Emily Romano,London,Trading
+100124,Luca Chen,Italy,Sales
+100125,Giulia Ait Said,China,Trading
+100126,Wei Martin,Asia,Sales
+100127,Mei Rossi,Morocco,Trading
+100128,Hana Sharma,France,Sales
+100129,Arjun Bouziane,London,Trading
+100130,Karim Hughes,Italy,Sales
+100131,Salma Rinaldi,China,Trading
+100132,Pierre Amrani,Asia,Sales
+100133,Claire El Mansouri,Morocco,Trading
+100134,James El Fassi,France,Sales
+100135,Sophia Romano,London,Trading
+100136,Mario Chen,Italy,Sales
+100137,Elena Ait Said,China,Trading
+100138,Li Martin,Asia,Sales
+100139,Jian Rossi,Morocco,Trading
+100140,Ravi Sharma,France,Sales
+100141,Priya Bouziane,London,Trading
+100142,Omar Hughes,Italy,Sales
+100143,Hajar Rinaldi,China,Trading
+100144,Luc Amrani,Asia,Sales
+100145,Camille El Mansouri,Morocco,Trading
+100146,Oliver El Fassi,France,Sales
+100147,Charlotte Romano,London,Trading
+100148,Andrea Chen,Italy,Sales
+100149,Francesca Ait Said,China,Trading
+100150,Yang Martin,Asia,Sales
+100151,Ananya Rossi,Morocco,Trading
+100152,Dev Sharma,France,Sales
+100153,Yassine Bouziane,London,Trading
+100154,Imane Hughes,Italy,Sales
+100155,Antoine Rinaldi,China,Trading
+100156,Julie Amrani,Asia,Sales
+100157,Amir El Mansouri,Morocco,Trading
+100158,Sara El Fassi,France,Sales
+100159,Youssef Romano,London,Trading
+100160,Nadia Chen,Italy,Sales
+100161,Thomas Ait Said,China,Trading
+100162,Emily Martin,Asia,Sales
+100163,Luca Rossi,Morocco,Trading
+100164,Giulia Sharma,France,Sales
+100165,Wei Bouziane,London,Trading
+100166,Mei Hughes,Italy,Sales
+100167,Hana Rinaldi,China,Trading
+100168,Arjun Amrani,Asia,Sales
+100169,Karim El Mansouri,Morocco,Trading
+100170,Salma El Fassi,France,Sales
+100171,Pierre Romano,London,Trading
+100172,Claire Chen,Italy,Sales
+100173,James Ait Said,China,Trading
+100174,Sophia Martin,Asia,Sales
+100175,Mario Rossi,Morocco,Trading
+100176,Elena Sharma,France,Sales
+100177,Li Bouziane,London,Trading
+100178,Jian Hughes,Italy,Sales
+100179,Ravi Rinaldi,China,Trading
+100180,Priya Amrani,Asia,Sales
+100181,Omar El Mansouri,Morocco,Trading
+100182,Hajar El Fassi,France,Sales
+100183,Luc Romano,London,Trading
+100184,Camille Chen,Italy,Sales
+100185,Oliver Ait Said,China,Trading
+100186,Charlotte Martin,Asia,Sales
+100187,Andrea Rossi,Morocco,Trading
+100188,Francesca Sharma,France,Sales
+100189,Yang Bouziane,London,Trading
+100190,Ananya Hughes,Italy,Sales
+100191,Dev Rinaldi,China,Trading
+100192,Yassine Amrani,Asia,Sales
+100193,Imane El Mansouri,Morocco,Trading
+100194,Antoine El Fassi,France,Sales
+100195,Julie Romano,London,Trading
+100196,Amir Chen,Italy,Sales
+100197,Sara Ait Said,China,Trading
+100198,Youssef Martin,Asia,Sales
+100199,Nadia Rossi,Morocco,Trading
+100200,Thomas Sharma,France,Sales
+100201,Emily Bouziane,London,Trading
+100202,Luca Hughes,Italy,Sales
+100203,Giulia Rinaldi,China,Trading
+100204,Wei Amrani,Asia,Sales
+100205,Mei El Mansouri,Morocco,Trading
+100206,Hana El Fassi,France,Sales
+100207,Arjun Romano,London,Trading
+100208,Karim Chen,Italy,Sales
+100209,Salma Ait Said,China,Trading
+100210,Pierre Martin,Asia,Sales
+100211,Claire Rossi,Morocco,Trading
+100212,James Sharma,France,Sales
+100213,Sophia Bouziane,London,Trading
+100214,Mario Hughes,Italy,Sales
+100215,Elena Rinaldi,China,Trading
+100216,Li Amrani,Asia,Sales
+100217,Jian El Mansouri,Morocco,Trading
+100218,Ravi El Fassi,France,Sales
+100219,Priya Romano,London,Trading
+100220,Omar Chen,Italy,Sales
+100221,Hajar Ait Said,China,Trading
+100222,Luc Martin,Asia,Sales
+100223,Camille Rossi,Morocco,Trading
+100224,Oliver Sharma,France,Sales
+100225,Charlotte Bouziane,London,Trading
+100226,Andrea Hughes,Italy,Sales
+100227,Francesca Rinaldi,China,Trading
+100228,Yang Amrani,Asia,Sales
+100229,Ananya El Mansouri,Morocco,Trading
+100230,Dev El Fassi,France,Sales
+100231,Yassine Romano,London,Trading
+100232,Imane Chen,Italy,Sales
+100233,Antoine Ait Said,China,Trading
+100234,Julie Martin,Asia,Sales
+100235,Amir Rossi,Morocco,Trading
+100236,Sara Sharma,France,Sales
+100237,Youssef Bouziane,London,Trading
+100238,Nadia Hughes,Italy,Sales
+100239,Thomas Rinaldi,China,Trading
+100240,Emily Amrani,Asia,Sales
+100241,Luca El Mansouri,Morocco,Trading
+100242,Giulia El Fassi,France,Sales
+100243,Wei Romano,London,Trading
+100244,Mei Chen,Italy,Sales
+100245,Hana Ait Said,China,Trading
+100246,Arjun Martin,Asia,Sales
+100247,Karim Rossi,Morocco,Trading
+100248,Salma Sharma,France,Sales
+100249,Pierre Bouziane,London,Trading
+100250,Claire Hughes,Italy,Sales
+100251,James Rinaldi,China,Trading
+100252,Sophia Amrani,Asia,Sales
+100253,Mario El Mansouri,Morocco,Trading
+100254,Elena El Fassi,France,Sales
+100255,Li Romano,London,Trading
+100256,Jian Chen,Italy,Sales
+100257,Ravi Ait Said,China,Trading
+100258,Priya Martin,Asia,Sales
+100259,Omar Rossi,Morocco,Trading
+100260,Hajar Sharma,France,Sales
+100261,Luc Bouziane,London,Trading
+100262,Camille Hughes,Italy,Sales
+100263,Oliver Rinaldi,China,Trading
+100264,Charlotte Amrani,Asia,Sales
+100265,Andrea El Mansouri,Morocco,Trading
+100266,Francesca El Fassi,France,Sales
+100267,Yang Romano,London,Trading
+100268,Ananya Chen,Italy,Sales
+100269,Dev Ait Said,China,Trading
+100270,Yassine Martin,Asia,Sales
+100271,Imane Rossi,Morocco,Trading
+100272,Antoine Sharma,France,Sales
+100273,Julie Bouziane,London,Trading
+100274,Amir Hughes,Italy,Sales
+100275,Sara Rinaldi,China,Trading
+100276,Youssef Amrani,Asia,Sales
+100277,Nadia El Mansouri,Morocco,Trading
+100278,Thomas El Fassi,France,Sales
+100279,Emily Romano,London,Trading
+100280,Luca Chen,Italy,Sales
+100281,Giulia Ait Said,China,Trading
+100282,Wei Martin,Asia,Sales
+100283,Mei Rossi,Morocco,Trading
+100284,Hana Sharma,France,Sales
+100285,Arjun Bouziane,London,Trading
+100286,Karim Hughes,Italy,Sales
+100287,Salma Rinaldi,China,Trading
+100288,Pierre Amrani,Asia,Sales
+100289,Claire El Mansouri,Morocco,Trading
+100290,James El Fassi,France,Sales
+100291,Sophia Romano,London,Trading
+100292,Mario Chen,Italy,Sales
+100293,Elena Ait Said,China,Trading
+100294,Li Martin,Asia,Sales
+100295,Jian Rossi,Morocco,Trading
+100296,Ravi Sharma,France,Sales
+100297,Priya Bouziane,London,Trading
+100298,Omar Hughes,Italy,Sales
+100299,Hajar Rinaldi,China,Trading
+100300,Luc Amrani,Asia,Sales
+100301,Camille El Mansouri,Morocco,Trading
+100302,Oliver El Fassi,France,Sales
+100303,Charlotte Romano,London,Trading
+100304,Andrea Chen,Italy,Sales
+100305,Francesca Ait Said,China,Trading
+100306,Yang Martin,Asia,Sales
+100307,Ananya Rossi,Morocco,Trading
+100308,Dev Sharma,France,Sales
+100309,Yassine Bouziane,London,Trading
+100310,Imane Hughes,Italy,Sales
+100311,Antoine Rinaldi,China,Trading
+100312,Julie Amrani,Asia,Sales
+100313,Amir El Mansouri,Morocco,Trading
+100314,Sara El Fassi,France,Sales
+100315,Youssef Romano,London,Trading
+100316,Nadia Chen,Italy,Sales
+100317,Thomas Ait Said,China,Trading
+100318,Emily Martin,Asia,Sales
+100319,Luca Rossi,Morocco,Trading
+100320,Giulia Sharma,France,Sales
+100321,Wei Bouziane,London,Trading
+100322,Mei Hughes,Italy,Sales
+100323,Hana Rinaldi,China,Trading
+100324,Arjun Amrani,Asia,Sales
+100325,Karim El Mansouri,Morocco,Trading
+100326,Salma El Fassi,France,Sales
+100327,Pierre Romano,London,Trading
+100328,Claire Chen,Italy,Sales
+100329,James Ait Said,China,Trading
+100330,Sophia Martin,Asia,Sales
+100331,Mario Rossi,Morocco,Trading
+100332,Elena Sharma,France,Sales
+100333,Li Bouziane,London,Trading
+100334,Jian Hughes,Italy,Sales
+100335,Ravi Rinaldi,China,Trading
+100336,Priya Amrani,Asia,Sales
+100337,Omar El Mansouri,Morocco,Trading
+100338,Hajar El Fassi,France,Sales
+100339,Luc Romano,London,Trading
+100340,Camille Chen,Italy,Sales
+100341,Oliver Ait Said,China,Trading
+100342,Charlotte Martin,Asia,Sales
+100343,Andrea Rossi,Morocco,Trading
+100344,Francesca Sharma,France,Sales
+100345,Yang Bouziane,London,Trading
+100346,Ananya Hughes,Italy,Sales
+100347,Dev Rinaldi,China,Trading
+100348,Yassine Amrani,Asia,Sales
+100349,Imane El Mansouri,Morocco,Trading
+100350,Antoine El Fassi,France,Sales
+100351,Julie Romano,London,Trading
+100352,Amir Chen,Italy,Sales
+100353,Sara Ait Said,China,Trading
+100354,Youssef Martin,Asia,Sales
+100355,Nadia Rossi,Morocco,Trading
+100356,Thomas Sharma,France,Sales
+100357,Emily Bouziane,London,Trading
+100358,Luca Hughes,Italy,Sales
+100359,Giulia Rinaldi,China,Trading
+100360,Wei Amrani,Asia,Sales
+100361,Mei El Mansouri,Morocco,Trading
+100362,Hana El Fassi,France,Sales
+100363,Arjun Romano,London,Trading
+100364,Karim Chen,Italy,Sales
+100365,Salma Ait Said,China,Trading
+100366,Pierre Martin,Asia,Sales
+100367,Claire Rossi,Morocco,Trading
+100368,James Sharma,France,Sales
+100369,Sophia Bouziane,London,Trading
+100370,Mario Hughes,Italy,Sales
+100371,Elena Rinaldi,China,Trading
+100372,Li Amrani,Asia,Sales
+100373,Jian El Mansouri,Morocco,Trading
+100374,Ravi El Fassi,France,Sales
+100375,Priya Romano,London,Trading
+100376,Omar Chen,Italy,Sales
+100377,Hajar Ait Said,China,Trading
+100378,Luc Martin,Asia,Sales
+100379,Camille Rossi,Morocco,Trading
+100380,Oliver Sharma,France,Sales
+100381,Charlotte Bouziane,London,Trading
+100382,Andrea Hughes,Italy,Sales
+100383,Francesca Rinaldi,China,Trading
+100384,Yang Amrani,Asia,Sales
+100385,Ananya El Mansouri,Morocco,Trading
+100386,Dev El Fassi,France,Sales
+100387,Yassine Romano,London,Trading
+100388,Imane Chen,Italy,Sales
+100389,Antoine Ait Said,China,Trading
+100390,Julie Martin,Asia,Sales
+100391,Amir Rossi,Morocco,Trading
+100392,Sara Sharma,France,Sales
+100393,Youssef Bouziane,London,Trading
+100394,Nadia Hughes,Italy,Sales
+100395,Thomas Rinaldi,China,Trading
+100396,Emily Amrani,Asia,Sales
+100397,Luca El Mansouri,Morocco,Trading
+100398,Giulia El Fassi,France,Sales
+100399,Wei Romano,London,Trading
+100400,Mei Chen,Italy,Sales
+100401,Hana Ait Said,China,Trading
+100402,Arjun Martin,Asia,Sales
+100403,Karim Rossi,Morocco,Trading
+100404,Salma Sharma,France,Sales
+100405,Pierre Bouziane,London,Trading
+100406,Claire Hughes,Italy,Sales
+100407,James Rinaldi,China,Trading
+100408,Sophia Amrani,Asia,Sales
+100409,Mario El Mansouri,Morocco,Trading
+100410,Elena El Fassi,France,Sales
+100411,Li Romano,London,Trading
+100412,Jian Chen,Italy,Sales
+100413,Ravi Ait Said,China,Trading
+100414,Priya Martin,Asia,Sales
+100415,Omar Rossi,Morocco,Trading
+100416,Hajar Sharma,France,Sales
+100417,Luc Bouziane,London,Trading
+100418,Camille Hughes,Italy,Sales
+100419,Oliver Rinaldi,China,Trading
+100420,Charlotte Amrani,Asia,Sales
+100421,Andrea El Mansouri,Morocco,Trading
+100422,Francesca El Fassi,France,Sales
+100423,Yang Romano,London,Trading
+100424,Ananya Chen,Italy,Sales
+100425,Dev Ait Said,China,Trading
+100426,Yassine Martin,Asia,Sales
+100427,Imane Rossi,Morocco,Trading
+100428,Antoine Sharma,France,Sales
+100429,Julie Bouziane,London,Trading
+100430,Amir Hughes,Italy,Sales
+100431,Sara Rinaldi,China,Trading
+100432,Youssef Amrani,Asia,Sales
+100433,Nadia El Mansouri,Morocco,Trading
+100434,Thomas El Fassi,France,Sales
+100435,Emily Romano,London,Trading
+100436,Luca Chen,Italy,Sales
+100437,Giulia Ait Said,China,Trading
+100438,Wei Martin,Asia,Sales
+100439,Mei Rossi,Morocco,Trading
+100440,Hana Sharma,France,Sales
+100441,Arjun Bouziane,London,Trading
+100442,Karim Hughes,Italy,Sales
+100443,Salma Rinaldi,China,Trading
+100444,Pierre Amrani,Asia,Sales
+100445,Claire El Mansouri,Morocco,Trading
+100446,James El Fassi,France,Sales
+100447,Sophia Romano,London,Trading
+100448,Mario Chen,Italy,Sales
+100449,Elena Ait Said,China,Trading
+100450,Li Martin,Asia,Sales
+100451,Jian Rossi,Morocco,Trading
+100452,Ravi Sharma,France,Sales
+100453,Priya Bouziane,London,Trading
+100454,Omar Hughes,Italy,Sales
+100455,Hajar Rinaldi,China,Trading
+100456,Luc Amrani,Asia,Sales
+100457,Camille El Mansouri,Morocco,Trading
+100458,Oliver El Fassi,France,Sales
+100459,Charlotte Romano,London,Trading
+100460,Andrea Chen,Italy,Sales
+100461,Francesca Ait Said,China,Trading
+100462,Yang Martin,Asia,Sales
+100463,Ananya Rossi,Morocco,Trading
+100464,Dev Sharma,France,Sales
+100465,Yassine Bouziane,London,Trading
+100466,Imane Hughes,Italy,Sales
+100467,Antoine Rinaldi,China,Trading
+100468,Julie Amrani,Asia,Sales
+100469,Amir El Mansouri,Morocco,Trading
+100470,Sara El Fassi,France,Sales
+100471,Youssef Romano,London,Trading
+100472,Nadia Chen,Italy,Sales
+100473,Thomas Ait Said,China,Trading
+100474,Emily Martin,Asia,Sales
+100475,Luca Rossi,Morocco,Trading
+100476,Giulia Sharma,France,Sales
+100477,Wei Bouziane,London,Trading
+100478,Mei Hughes,Italy,Sales
+100479,Hana Rinaldi,China,Trading
+100480,Arjun Amrani,Asia,Sales
+100481,Karim El Mansouri,Morocco,Trading
+100482,Salma El Fassi,France,Sales
+100483,Pierre Romano,London,Trading
+100484,Claire Chen,Italy,Sales
+100485,James Ait Said,China,Trading
+100486,Sophia Martin,Asia,Sales
+100487,Mario Rossi,Morocco,Trading
+100488,Elena Sharma,France,Sales
+100489,Li Bouziane,London,Trading
+100490,Jian Hughes,Italy,Sales
+100491,Ravi Rinaldi,China,Trading
+100492,Priya Amrani,Asia,Sales
+100493,Omar El Mansouri,Morocco,Trading
+100494,Hajar El Fassi,France,Sales
+100495,Luc Romano,London,Trading
+100496,Camille Chen,Italy,Sales
+100497,Oliver Ait Said,China,Trading
+100498,Charlotte Martin,Asia,Sales
+100499,Andrea Rossi,Morocco,Trading
+100500,Francesca Sharma,France,Sales
+100501,Yang Bouziane,London,Trading
+100502,Ananya Hughes,Italy,Sales
+100503,Dev Rinaldi,China,Trading
+100504,Yassine Amrani,Asia,Sales
+100505,Imane El Mansouri,Morocco,Trading
+100506,Antoine El Fassi,France,Sales
+100507,Julie Romano,London,Trading
+100508,Amir Chen,Italy,Sales
+100509,Sara Ait Said,China,Trading
+100510,Youssef Martin,Asia,Sales
+100511,Nadia Rossi,Morocco,Trading
+100512,Thomas Sharma,France,Sales
+100513,Emily Bouziane,London,Trading
+100514,Luca Hughes,Italy,Sales
+100515,Giulia Rinaldi,China,Trading
+100516,Wei Amrani,Asia,Sales
+100517,Mei El Mansouri,Morocco,Trading
+100518,Hana El Fassi,France,Sales
+100519,Arjun Romano,London,Trading
+100520,Karim Chen,Italy,Sales
+100521,Salma Ait Said,China,Trading
+100522,Pierre Martin,Asia,Sales
+100523,Claire Rossi,Morocco,Trading
+100524,James Sharma,France,Sales
+100525,Sophia Bouziane,London,Trading
+100526,Mario Hughes,Italy,Sales
+100527,Elena Rinaldi,China,Trading
+100528,Li Amrani,Asia,Sales
+100529,Jian El Mansouri,Morocco,Trading
+100530,Ravi El Fassi,France,Sales
+100531,Priya Romano,London,Trading
+100532,Omar Chen,Italy,Sales
+100533,Hajar Ait Said,China,Trading
+100534,Luc Martin,Asia,Sales
+100535,Camille Rossi,Morocco,Trading
+100536,Oliver Sharma,France,Sales
+100537,Charlotte Bouziane,London,Trading
+100538,Andrea Hughes,Italy,Sales
+100539,Francesca Rinaldi,China,Trading
+100540,Yang Amrani,Asia,Sales
+100541,Ananya El Mansouri,Morocco,Trading
+100542,Dev El Fassi,France,Sales
+100543,Yassine Romano,London,Trading
+100544,Imane Chen,Italy,Sales
+100545,Antoine Ait Said,China,Trading
+100546,Julie Martin,Asia,Sales
+100547,Amir Rossi,Morocco,Trading
+100548,Sara Sharma,France,Sales
+100549,Youssef Bouziane,London,Trading
+100550,Nadia Hughes,Italy,Sales
+100551,Thomas Rinaldi,China,Trading
+100552,Emily Amrani,Asia,Sales
+100553,Luca El Mansouri,Morocco,Trading
+100554,Giulia El Fassi,France,Sales
+100555,Wei Romano,London,Trading
+100556,Mei Chen,Italy,Sales
+100557,Hana Ait Said,China,Trading
+100558,Arjun Martin,Asia,Sales
+100559,Karim Rossi,Morocco,Trading
+100560,Salma Sharma,France,Sales
+100561,Pierre Bouziane,London,Trading
+100562,Claire Hughes,Italy,Sales
+100563,James Rinaldi,China,Trading
+100564,Sophia Amrani,Asia,Sales
+100565,Mario El Mansouri,Morocco,Trading
+100566,Elena El Fassi,France,Sales
+100567,Li Romano,London,Trading
+100568,Jian Chen,Italy,Sales
+100569,Ravi Ait Said,China,Trading
+100570,Priya Martin,Asia,Sales
+100571,Omar Rossi,Morocco,Trading
+100572,Hajar Sharma,France,Sales
+100573,Luc Bouziane,London,Trading
+100574,Camille Hughes,Italy,Sales
+100575,Oliver Rinaldi,China,Trading
+100576,Charlotte Amrani,Asia,Sales
+100577,Andrea El Mansouri,Morocco,Trading
+100578,Francesca El Fassi,France,Sales
+100579,Yang Romano,London,Trading
+100580,Ananya Chen,Italy,Sales
+100581,Dev Ait Said,China,Trading
+100582,Yassine Martin,Asia,Sales
+100583,Imane Rossi,Morocco,Trading
+100584,Antoine Sharma,France,Sales
+100585,Julie Bouziane,London,Trading
+100586,Amir Hughes,Italy,Sales
+100587,Sara Rinaldi,China,Trading
+100588,Youssef Amrani,Asia,Sales
+100589,Nadia El Mansouri,Morocco,Trading
+100590,Thomas El Fassi,France,Sales
+100591,Emily Romano,London,Trading
+100592,Luca Chen,Italy,Sales
+100593,Giulia Ait Said,China,Trading
+100594,Wei Martin,Asia,Sales
+100595,Mei Rossi,Morocco,Trading
+100596,Hana Sharma,France,Sales
+100597,Arjun Bouziane,London,Trading
+100598,Karim Hughes,Italy,Sales
+100599,Salma Rinaldi,China,Trading
+100600,Pierre Amrani,Asia,Sales
+100601,Claire El Mansouri,Morocco,Trading
+100602,James El Fassi,France,Sales
+100603,Sophia Romano,London,Trading
+100604,Mario Chen,Italy,Sales
+100605,Elena Ait Said,China,Trading
+100606,Li Martin,Asia,Sales
+100607,Jian Rossi,Morocco,Trading
+100608,Ravi Sharma,France,Sales
+100609,Priya Bouziane,London,Trading
+100610,Omar Hughes,Italy,Sales
+100611,Hajar Rinaldi,China,Trading
+100612,Luc Amrani,Asia,Sales
+100613,Camille El Mansouri,Morocco,Trading
+100614,Oliver El Fassi,France,Sales
+100615,Charlotte Romano,London,Trading
+100616,Andrea Chen,Italy,Sales
+100617,Francesca Ait Said,China,Trading
+100618,Yang Martin,Asia,Sales
+100619,Ananya Rossi,Morocco,Trading
+100620,Dev Sharma,France,Sales
+100621,Yassine Bouziane,London,Trading
+100622,Imane Hughes,Italy,Sales
+100623,Antoine Rinaldi,China,Trading
+100624,Julie Amrani,Asia,Sales
+100625,Amir El Mansouri,Morocco,Trading
+100626,Sara El Fassi,France,Sales
+100627,Youssef Romano,London,Trading
+100628,Nadia Chen,Italy,Sales
+100629,Thomas Ait Said,China,Trading
+100630,Emily Martin,Asia,Sales
+100631,Luca Rossi,Morocco,Trading
+100632,Giulia Sharma,France,Sales
+100633,Wei Bouziane,London,Trading
+100634,Mei Hughes,Italy,Sales
+100635,Hana Rinaldi,China,Trading
+100636,Arjun Amrani,Asia,Sales
+100637,Karim El Mansouri,Morocco,Trading
+100638,Salma El Fassi,France,Sales
+100639,Pierre Romano,London,Trading
+100640,Claire Chen,Italy,Sales
+100641,James Ait Said,China,Trading
+100642,Sophia Martin,Asia,Sales
+100643,Mario Rossi,Morocco,Trading
+100644,Elena Sharma,France,Sales
+100645,Li Bouziane,London,Trading
+100646,Jian Hughes,Italy,Sales
+100647,Ravi Rinaldi,China,Trading
+100648,Priya Amrani,Asia,Sales
+100649,Omar El Mansouri,Morocco,Trading
+100650,Hajar El Fassi,France,Sales
+100651,Luc Romano,London,Trading
+100652,Camille Chen,Italy,Sales
+100653,Oliver Ait Said,China,Trading
+100654,Charlotte Martin,Asia,Sales
+100655,Andrea Rossi,Morocco,Trading
+100656,Francesca Sharma,France,Sales
+100657,Yang Bouziane,London,Trading
+100658,Ananya Hughes,Italy,Sales
+100659,Dev Rinaldi,China,Trading
+100660,Yassine Amrani,Asia,Sales
+100661,Imane El Mansouri,Morocco,Trading
+100662,Antoine El Fassi,France,Sales
+100663,Julie Romano,London,Trading
+100664,Amir Chen,Italy,Sales
+100665,Sara Ait Said,China,Trading
+100666,Youssef Martin,Asia,Sales
+100667,Nadia Rossi,Morocco,Trading
+100668,Thomas Sharma,France,Sales
+100669,Emily Bouziane,London,Trading
+100670,Luca Hughes,Italy,Sales
+100671,Giulia Rinaldi,China,Trading
+100672,Wei Amrani,Asia,Sales
+100673,Mei El Mansouri,Morocco,Trading
+100674,Hana El Fassi,France,Sales
+100675,Arjun Romano,London,Trading
+100676,Karim Chen,Italy,Sales
+100677,Salma Ait Said,China,Trading
+100678,Pierre Martin,Asia,Sales
+100679,Claire Rossi,Morocco,Trading
+100680,James Sharma,France,Sales
+100681,Sophia Bouziane,London,Trading
+100682,Mario Hughes,Italy,Sales
+100683,Elena Rinaldi,China,Trading
+100684,Li Amrani,Asia,Sales
+100685,Jian El Mansouri,Morocco,Trading
+100686,Ravi El Fassi,France,Sales
+100687,Priya Romano,London,Trading
+100688,Omar Chen,Italy,Sales
+100689,Hajar Ait Said,China,Trading
+100690,Luc Martin,Asia,Sales
+100691,Camille Rossi,Morocco,Trading
+100692,Oliver Sharma,France,Sales
+100693,Charlotte Bouziane,London,Trading
+100694,Andrea Hughes,Italy,Sales
+100695,Francesca Rinaldi,China,Trading
+100696,Yang Amrani,Asia,Sales
+100697,Ananya El Mansouri,Morocco,Trading
+100698,Dev El Fassi,France,Sales
+100699,Yassine Romano,London,Trading
+100700,Imane Chen,Italy,Sales
+100701,Antoine Ait Said,China,Trading
+100702,Julie Martin,Asia,Sales
+100703,Amir Rossi,Morocco,Trading
+100704,Sara Sharma,France,Sales
+100705,Youssef Bouziane,London,Trading
+100706,Nadia Hughes,Italy,Sales
+100707,Thomas Rinaldi,China,Trading
+100708,Emily Amrani,Asia,Sales
+100709,Luca El Mansouri,Morocco,Trading
+100710,Giulia El Fassi,France,Sales
+100711,Wei Romano,London,Trading
+100712,Mei Chen,Italy,Sales
+100713,Hana Ait Said,China,Trading
+100714,Arjun Martin,Asia,Sales
+100715,Karim Rossi,Morocco,Trading
+100716,Salma Sharma,France,Sales
+100717,Pierre Bouziane,London,Trading
+100718,Claire Hughes,Italy,Sales
+100719,James Rinaldi,China,Trading
+100720,Sophia Amrani,Asia,Sales
+100721,Mario El Mansouri,Morocco,Trading
+100722,Elena El Fassi,France,Sales
+100723,Li Romano,London,Trading
+100724,Jian Chen,Italy,Sales
+100725,Ravi Ait Said,China,Trading
+100726,Priya Martin,Asia,Sales
+100727,Omar Rossi,Morocco,Trading
+100728,Hajar Sharma,France,Sales
+100729,Luc Bouziane,London,Trading
+100730,Camille Hughes,Italy,Sales
+100731,Oliver Rinaldi,China,Trading
+100732,Charlotte Amrani,Asia,Sales
+100733,Andrea El Mansouri,Morocco,Trading
+100734,Francesca El Fassi,France,Sales
+100735,Yang Romano,London,Trading
+100736,Ananya Chen,Italy,Sales
+100737,Dev Ait Said,China,Trading
+100738,Yassine Martin,Asia,Sales
+100739,Imane Rossi,Morocco,Trading
+100740,Antoine Sharma,France,Sales
+100741,Julie Bouziane,London,Trading
+100742,Amir Hughes,Italy,Sales
+100743,Sara Rinaldi,China,Trading
+100744,Youssef Amrani,Asia,Sales
+100745,Nadia El Mansouri,Morocco,Trading
+100746,Thomas El Fassi,France,Sales
+100747,Emily Romano,London,Trading
+100748,Luca Chen,Italy,Sales
+100749,Giulia Ait Said,China,Trading
+100750,Wei Martin,Asia,Sales
+100751,Mei Rossi,Morocco,Trading
+100752,Hana Sharma,France,Sales
+100753,Arjun Bouziane,London,Trading
+100754,Karim Hughes,Italy,Sales
+100755,Salma Rinaldi,China,Trading
+100756,Pierre Amrani,Asia,Sales
+100757,Claire El Mansouri,Morocco,Trading
+100758,James El Fassi,France,Sales
+100759,Sophia Romano,London,Trading
+100760,Mario Chen,Italy,Sales
+100761,Elena Ait Said,China,Trading
+100762,Li Martin,Asia,Sales
+100763,Jian Rossi,Morocco,Trading
+100764,Ravi Sharma,France,Sales
+100765,Priya Bouziane,London,Trading
+100766,Omar Hughes,Italy,Sales
+100767,Hajar Rinaldi,China,Trading
+100768,Luc Amrani,Asia,Sales
+100769,Camille El Mansouri,Morocco,Trading
+100770,Oliver El Fassi,France,Sales
+100771,Charlotte Romano,London,Trading
+100772,Andrea Chen,Italy,Sales
+100773,Francesca Ait Said,China,Trading
+100774,Yang Martin,Asia,Sales
+100775,Ananya Rossi,Morocco,Trading
+100776,Dev Sharma,France,Sales
+100777,Yassine Bouziane,London,Trading
+100778,Imane Hughes,Italy,Sales
+100779,Antoine Rinaldi,China,Trading
+100780,Julie Amrani,Asia,Sales
+100781,Amir El Mansouri,Morocco,Trading
+100782,Sara El Fassi,France,Sales
+100783,Youssef Romano,London,Trading
+100784,Nadia Chen,Italy,Sales
+100785,Thomas Ait Said,China,Trading
+100786,Emily Martin,Asia,Sales
+100787,Luca Rossi,Morocco,Trading
+100788,Giulia Sharma,France,Sales
+100789,Wei Bouziane,London,Trading
+100790,Mei Hughes,Italy,Sales
+100791,Hana Rinaldi,China,Trading
+100792,Arjun Amrani,Asia,Sales
+100793,Karim El Mansouri,Morocco,Trading
+100794,Salma El Fassi,France,Sales
+100795,Pierre Romano,London,Trading
+100796,Claire Chen,Italy,Sales
+100797,James Ait Said,China,Trading
+100798,Sophia Martin,Asia,Sales
+100799,Mario Rossi,Morocco,Trading
+100800,Elena Sharma,France,Sales
+100801,Li Bouziane,London,Trading
+100802,Jian Hughes,Italy,Sales
+100803,Ravi Rinaldi,China,Trading
+100804,Priya Amrani,Asia,Sales
+100805,Omar El Mansouri,Morocco,Trading
+100806,Hajar El Fassi,France,Sales
+100807,Luc Romano,London,Trading
+100808,Camille Chen,Italy,Sales
+100809,Oliver Ait Said,China,Trading
+100810,Charlotte Martin,Asia,Sales
+100811,Andrea Rossi,Morocco,Trading
+100812,Francesca Sharma,France,Sales
+100813,Yang Bouziane,London,Trading
+100814,Ananya Hughes,Italy,Sales
+100815,Dev Rinaldi,China,Trading
+100816,Yassine Amrani,Asia,Sales
+100817,Imane El Mansouri,Morocco,Trading
+100818,Antoine El Fassi,France,Sales
+100819,Julie Romano,London,Trading
+100820,Amir Chen,Italy,Sales
+100821,Sara Ait Said,China,Trading
+100822,Youssef Martin,Asia,Sales
+100823,Nadia Rossi,Morocco,Trading
+100824,Thomas Sharma,France,Sales
+100825,Emily Bouziane,London,Trading
+100826,Luca Hughes,Italy,Sales
+100827,Giulia Rinaldi,China,Trading
+100828,Wei Amrani,Asia,Sales
+100829,Mei El Mansouri,Morocco,Trading
+100830,Hana El Fassi,France,Sales
+100831,Arjun Romano,London,Trading
+100832,Karim Chen,Italy,Sales
+100833,Salma Ait Said,China,Trading
+100834,Pierre Martin,Asia,Sales
+100835,Claire Rossi,Morocco,Trading
+100836,James Sharma,France,Sales
+100837,Sophia Bouziane,London,Trading
+100838,Mario Hughes,Italy,Sales
+100839,Elena Rinaldi,China,Trading
+100840,Li Amrani,Asia,Sales
+100841,Jian El Mansouri,Morocco,Trading
+100842,Ravi El Fassi,France,Sales
+100843,Priya Romano,London,Trading
+100844,Omar Chen,Italy,Sales
+100845,Hajar Ait Said,China,Trading
+100846,Luc Martin,Asia,Sales
+100847,Camille Rossi,Morocco,Trading
+100848,Oliver Sharma,France,Sales
+100849,Charlotte Bouziane,London,Trading
+100850,Andrea Hughes,Italy,Sales
+100851,Francesca Rinaldi,China,Trading
+100852,Yang Amrani,Asia,Sales
+100853,Ananya El Mansouri,Morocco,Trading
+100854,Dev El Fassi,France,Sales
+100855,Yassine Romano,London,Trading
+100856,Imane Chen,Italy,Sales
+100857,Antoine Ait Said,China,Trading
+100858,Julie Martin,Asia,Sales
+100859,Amir Rossi,Morocco,Trading
+100860,Sara Sharma,France,Sales
+100861,Youssef Bouziane,London,Trading
+100862,Nadia Hughes,Italy,Sales
+100863,Thomas Rinaldi,China,Trading
+100864,Emily Amrani,Asia,Sales
+100865,Luca El Mansouri,Morocco,Trading
+100866,Giulia El Fassi,France,Sales
+100867,Wei Romano,London,Trading
+100868,Mei Chen,Italy,Sales
+100869,Hana Ait Said,China,Trading
+100870,Arjun Martin,Asia,Sales
+100871,Karim Rossi,Morocco,Trading
+100872,Salma Sharma,France,Sales
+100873,Pierre Bouziane,London,Trading
+100874,Claire Hughes,Italy,Sales
+100875,James Rinaldi,China,Trading
+100876,Sophia Amrani,Asia,Sales
+100877,Mario El Mansouri,Morocco,Trading
+100878,Elena El Fassi,France,Sales
+100879,Li Romano,London,Trading
+100880,Jian Chen,Italy,Sales
+100881,Ravi Ait Said,China,Trading
+100882,Priya Martin,Asia,Sales
+100883,Omar Rossi,Morocco,Trading
+100884,Hajar Sharma,France,Sales
+100885,Luc Bouziane,London,Trading
+100886,Camille Hughes,Italy,Sales
+100887,Oliver Rinaldi,China,Trading
+100888,Charlotte Amrani,Asia,Sales
+100889,Andrea El Mansouri,Morocco,Trading
+100890,Francesca El Fassi,France,Sales
+100891,Yang Romano,London,Trading
+100892,Ananya Chen,Italy,Sales
+100893,Dev Ait Said,China,Trading
+100894,Yassine Martin,Asia,Sales
+100895,Imane Rossi,Morocco,Trading
+100896,Antoine Sharma,France,Sales
+100897,Julie Bouziane,London,Trading
+100898,Amir Hughes,Italy,Sales
+100899,Sara Rinaldi,China,Trading
+100900,Youssef Amrani,Asia,Sales
+100901,Nadia El Mansouri,Morocco,Trading
+100902,Thomas El Fassi,France,Sales
+100903,Emily Romano,London,Trading
+100904,Luca Chen,Italy,Sales
+100905,Giulia Ait Said,China,Trading
+100906,Wei Martin,Asia,Sales
+100907,Mei Rossi,Morocco,Trading
+100908,Hana Sharma,France,Sales
+100909,Arjun Bouziane,London,Trading
+100910,Karim Hughes,Italy,Sales
+100911,Salma Rinaldi,China,Trading
+100912,Pierre Amrani,Asia,Sales
+100913,Claire El Mansouri,Morocco,Trading
+100914,James El Fassi,France,Sales
+100915,Sophia Romano,London,Trading
+100916,Mario Chen,Italy,Sales
+100917,Elena Ait Said,China,Trading
+100918,Li Martin,Asia,Sales
+100919,Jian Rossi,Morocco,Trading
+100920,Ravi Sharma,France,Sales
+100921,Priya Bouziane,London,Trading
+100922,Omar Hughes,Italy,Sales
+100923,Hajar Rinaldi,China,Trading
+100924,Luc Amrani,Asia,Sales
+100925,Camille El Mansouri,Morocco,Trading
+100926,Oliver El Fassi,France,Sales
+100927,Charlotte Romano,London,Trading
+100928,Andrea Chen,Italy,Sales
+100929,Francesca Ait Said,China,Trading
+100930,Yang Martin,Asia,Sales
+100931,Ananya Rossi,Morocco,Trading
+100932,Dev Sharma,France,Sales
+100933,Yassine Bouziane,London,Trading
+100934,Imane Hughes,Italy,Sales
+100935,Antoine Rinaldi,China,Trading
+100936,Julie Amrani,Asia,Sales
+100937,Amir El Mansouri,Morocco,Trading
+100938,Sara El Fassi,France,Sales
+100939,Youssef Romano,London,Trading
+100940,Nadia Chen,Italy,Sales
+100941,Thomas Ait Said,China,Trading
+100942,Emily Martin,Asia,Sales
+100943,Luca Rossi,Morocco,Trading
+100944,Giulia Sharma,France,Sales
+100945,Wei Bouziane,London,Trading
+100946,Mei Hughes,Italy,Sales
+100947,Hana Rinaldi,China,Trading
+100948,Arjun Amrani,Asia,Sales
+100949,Karim El Mansouri,Morocco,Trading
+100950,Salma El Fassi,France,Sales
+100951,Pierre Romano,London,Trading
+100952,Claire Chen,Italy,Sales
+100953,James Ait Said,China,Trading
+100954,Sophia Martin,Asia,Sales
+100955,Mario Rossi,Morocco,Trading
+100956,Elena Sharma,France,Sales
+100957,Li Bouziane,London,Trading
+100958,Jian Hughes,Italy,Sales
+100959,Ravi Rinaldi,China,Trading
+100960,Priya Amrani,Asia,Sales
+100961,Omar El Mansouri,Morocco,Trading
+100962,Hajar El Fassi,France,Sales
+100963,Luc Romano,London,Trading
+100964,Camille Chen,Italy,Sales
+100965,Oliver Ait Said,China,Trading
+100966,Charlotte Martin,Asia,Sales
+100967,Andrea Rossi,Morocco,Trading
+100968,Francesca Sharma,France,Sales
+100969,Yang Bouziane,London,Trading
+100970,Ananya Hughes,Italy,Sales
+100971,Dev Rinaldi,China,Trading
+100972,Yassine Amrani,Asia,Sales
+100973,Imane El Mansouri,Morocco,Trading
+100974,Antoine El Fassi,France,Sales
+100975,Julie Romano,London,Trading
+100976,Amir Chen,Italy,Sales
+100977,Sara Ait Said,China,Trading
+100978,Youssef Martin,Asia,Sales
+100979,Nadia Rossi,Morocco,Trading
+100980,Thomas Sharma,France,Sales
+100981,Emily Bouziane,London,Trading
+100982,Luca Hughes,Italy,Sales
+100983,Giulia Rinaldi,China,Trading
+100984,Wei Amrani,Asia,Sales
+100985,Mei El Mansouri,Morocco,Trading
+100986,Hana El Fassi,France,Sales
+100987,Arjun Romano,London,Trading
+100988,Karim Chen,Italy,Sales
+100989,Salma Ait Said,China,Trading
+100990,Pierre Martin,Asia,Sales
+100991,Claire Rossi,Morocco,Trading
+100992,James Sharma,France,Sales
+100993,Sophia Bouziane,London,Trading
+100994,Mario Hughes,Italy,Sales
+100995,Elena Rinaldi,China,Trading
+100996,Li Amrani,Asia,Sales
+100997,Jian El Mansouri,Morocco,Trading
+100998,Ravi El Fassi,France,Sales
+100999,Priya Romano,London,Trading
+101000,Omar Chen,Italy,Sales
+101001,Hajar Ait Said,China,Trading
+101002,Luc Martin,Asia,Sales
+101003,Camille Rossi,Morocco,Trading
+101004,Oliver Sharma,France,Sales
+101005,Charlotte Bouziane,London,Trading
+101006,Andrea Hughes,Italy,Sales
+101007,Francesca Rinaldi,China,Trading
+101008,Yang Amrani,Asia,Sales
+101009,Ananya El Mansouri,Morocco,Trading
+101010,Dev El Fassi,France,Sales
+101011,Yassine Romano,London,Trading
+101012,Imane Chen,Italy,Sales
+101013,Antoine Ait Said,China,Trading
+101014,Julie Martin,Asia,Sales
+101015,Amir Rossi,Morocco,Trading
+101016,Sara Sharma,France,Sales
+101017,Youssef Bouziane,London,Trading
+101018,Nadia Hughes,Italy,Sales
+101019,Thomas Rinaldi,China,Trading
+101020,Emily Amrani,Asia,Sales
+101021,Luca El Mansouri,Morocco,Trading
+101022,Giulia El Fassi,France,Sales
+101023,Wei Romano,London,Trading
+101024,Mei Chen,Italy,Sales
+101025,Hana Ait Said,China,Trading
+101026,Arjun Martin,Asia,Sales
+101027,Karim Rossi,Morocco,Trading
+101028,Salma Sharma,France,Sales
+101029,Pierre Bouziane,London,Trading
+101030,Claire Hughes,Italy,Sales
+101031,James Rinaldi,China,Trading
+101032,Sophia Amrani,Asia,Sales
+101033,Mario El Mansouri,Morocco,Trading
+101034,Elena El Fassi,France,Sales
+101035,Li Romano,London,Trading
+101036,Jian Chen,Italy,Sales
+101037,Ravi Ait Said,China,Trading
+101038,Priya Martin,Asia,Sales
+101039,Omar Rossi,Morocco,Trading
+101040,Hajar Sharma,France,Sales
+101041,Luc Bouziane,London,Trading
+101042,Camille Hughes,Italy,Sales
+101043,Oliver Rinaldi,China,Trading
+101044,Charlotte Amrani,Asia,Sales
+101045,Andrea El Mansouri,Morocco,Trading
+101046,Francesca El Fassi,France,Sales
+101047,Yang Romano,London,Trading
+101048,Ananya Chen,Italy,Sales
+101049,Dev Ait Said,China,Trading
+101050,Yassine Martin,Asia,Sales
+101051,Imane Rossi,Morocco,Trading
+101052,Antoine Sharma,France,Sales
+101053,Julie Bouziane,London,Trading
+101054,Amir Hughes,Italy,Sales
+101055,Sara Rinaldi,China,Trading
+101056,Youssef Amrani,Asia,Sales
+101057,Nadia El Mansouri,Morocco,Trading
+101058,Thomas El Fassi,France,Sales
+101059,Emily Romano,London,Trading
+101060,Luca Chen,Italy,Sales
+101061,Giulia Ait Said,China,Trading
+101062,Wei Martin,Asia,Sales
+101063,Mei Rossi,Morocco,Trading
+101064,Hana Sharma,France,Sales
+101065,Arjun Bouziane,London,Trading
+101066,Karim Hughes,Italy,Sales
+101067,Salma Rinaldi,China,Trading
+101068,Pierre Amrani,Asia,Sales
+101069,Claire El Mansouri,Morocco,Trading
+101070,James El Fassi,France,Sales
+101071,Sophia Romano,London,Trading
+101072,Mario Chen,Italy,Sales
+101073,Elena Ait Said,China,Trading
+101074,Li Martin,Asia,Sales
+101075,Jian Rossi,Morocco,Trading
+101076,Ravi Sharma,France,Sales
+101077,Priya Bouziane,London,Trading
+101078,Omar Hughes,Italy,Sales
+101079,Hajar Rinaldi,China,Trading
+101080,Luc Amrani,Asia,Sales
+101081,Camille El Mansouri,Morocco,Trading
+101082,Oliver El Fassi,France,Sales
+101083,Charlotte Romano,London,Trading
+101084,Andrea Chen,Italy,Sales
+101085,Francesca Ait Said,China,Trading
+101086,Yang Martin,Asia,Sales
+101087,Ananya Rossi,Morocco,Trading
+101088,Dev Sharma,France,Sales
+101089,Yassine Bouziane,London,Trading
+101090,Imane Hughes,Italy,Sales
+101091,Antoine Rinaldi,China,Trading
+101092,Julie Amrani,Asia,Sales
+101093,Amir El Mansouri,Morocco,Trading
+101094,Sara El Fassi,France,Sales
+101095,Youssef Romano,London,Trading
+101096,Nadia Chen,Italy,Sales
+101097,Thomas Ait Said,China,Trading
+101098,Emily Martin,Asia,Sales
+101099,Luca Rossi,Morocco,Trading
+101100,Giulia Sharma,France,Sales
+101101,Wei Bouziane,London,Trading
+101102,Mei Hughes,Italy,Sales
+101103,Hana Rinaldi,China,Trading
+101104,Arjun Amrani,Asia,Sales
+101105,Karim El Mansouri,Morocco,Trading
+101106,Salma El Fassi,France,Sales
+101107,Pierre Romano,London,Trading
+101108,Claire Chen,Italy,Sales
+101109,James Ait Said,China,Trading
+101110,Sophia Martin,Asia,Sales
+101111,Mario Rossi,Morocco,Trading
+101112,Elena Sharma,France,Sales
+101113,Li Bouziane,London,Trading
+101114,Jian Hughes,Italy,Sales
+101115,Ravi Rinaldi,China,Trading
+101116,Priya Amrani,Asia,Sales
+101117,Omar El Mansouri,Morocco,Trading
+101118,Hajar El Fassi,France,Sales
+101119,Luc Romano,London,Trading
+101120,Camille Chen,Italy,Sales
+101121,Oliver Ait Said,China,Trading
+101122,Charlotte Martin,Asia,Sales
+101123,Andrea Rossi,Morocco,Trading
+101124,Francesca Sharma,France,Sales
+101125,Yang Bouziane,London,Trading
+101126,Ananya Hughes,Italy,Sales
+101127,Dev Rinaldi,China,Trading
+101128,Yassine Amrani,Asia,Sales
+101129,Imane El Mansouri,Morocco,Trading
+101130,Antoine El Fassi,France,Sales
+101131,Julie Romano,London,Trading
+101132,Amir Chen,Italy,Sales
+101133,Sara Ait Said,China,Trading
+101134,Youssef Martin,Asia,Sales
+101135,Nadia Rossi,Morocco,Trading
+101136,Thomas Sharma,France,Sales
+101137,Emily Bouziane,London,Trading
+101138,Luca Hughes,Italy,Sales
+101139,Giulia Rinaldi,China,Trading
+101140,Wei Amrani,Asia,Sales
+101141,Mei El Mansouri,Morocco,Trading
+101142,Hana El Fassi,France,Sales
+101143,Arjun Romano,London,Trading
+101144,Karim Chen,Italy,Sales
+101145,Salma Ait Said,China,Trading
+101146,Pierre Martin,Asia,Sales
+101147,Claire Rossi,Morocco,Trading
+101148,James Sharma,France,Sales
+101149,Sophia Bouziane,London,Trading
+101150,Mario Hughes,Italy,Sales
+101151,Elena Rinaldi,China,Trading
+101152,Li Amrani,Asia,Sales
+101153,Jian El Mansouri,Morocco,Trading
+101154,Ravi El Fassi,France,Sales
+101155,Priya Romano,London,Trading
+101156,Omar Chen,Italy,Sales
+101157,Hajar Ait Said,China,Trading
+101158,Luc Martin,Asia,Sales
+101159,Camille Rossi,Morocco,Trading
+101160,Oliver Sharma,France,Sales
+101161,Charlotte Bouziane,London,Trading
+101162,Andrea Hughes,Italy,Sales
+101163,Francesca Rinaldi,China,Trading
+101164,Yang Amrani,Asia,Sales
+101165,Ananya El Mansouri,Morocco,Trading
+101166,Dev El Fassi,France,Sales
+101167,Yassine Romano,London,Trading
+101168,Imane Chen,Italy,Sales
+101169,Antoine Ait Said,China,Trading
+101170,Julie Martin,Asia,Sales
+101171,Amir Rossi,Morocco,Trading
+101172,Sara Sharma,France,Sales
+101173,Youssef Bouziane,London,Trading
+101174,Nadia Hughes,Italy,Sales
+101175,Thomas Rinaldi,China,Trading
+101176,Emily Amrani,Asia,Sales
+101177,Luca El Mansouri,Morocco,Trading
+101178,Giulia El Fassi,France,Sales
+101179,Wei Romano,London,Trading
+101180,Mei Chen,Italy,Sales
+101181,Hana Ait Said,China,Trading
+101182,Arjun Martin,Asia,Sales
+101183,Karim Rossi,Morocco,Trading
+101184,Salma Sharma,France,Sales
+101185,Pierre Bouziane,London,Trading
+101186,Claire Hughes,Italy,Sales
+101187,James Rinaldi,China,Trading
+101188,Sophia Amrani,Asia,Sales
+101189,Mario El Mansouri,Morocco,Trading
+101190,Elena El Fassi,France,Sales
+101191,Li Romano,London,Trading
+101192,Jian Chen,Italy,Sales
+101193,Ravi Ait Said,China,Trading
+101194,Priya Martin,Asia,Sales
+101195,Omar Rossi,Morocco,Trading
+101196,Hajar Sharma,France,Sales
+101197,Luc Bouziane,London,Trading
+101198,Camille Hughes,Italy,Sales
+101199,Oliver Rinaldi,China,Trading
+101200,Charlotte Amrani,Asia,Sales
+101201,Andrea El Mansouri,Morocco,Trading
+101202,Francesca El Fassi,France,Sales
+101203,Yang Romano,London,Trading
+101204,Ananya Chen,Italy,Sales
+101205,Dev Ait Said,China,Trading
+101206,Yassine Martin,Asia,Sales
+101207,Imane Rossi,Morocco,Trading
+101208,Antoine Sharma,France,Sales
+101209,Julie Bouziane,London,Trading
+101210,Amir Hughes,Italy,Sales
+101211,Sara Rinaldi,China,Trading
+101212,Youssef Amrani,Asia,Sales
+101213,Nadia El Mansouri,Morocco,Trading
+101214,Thomas El Fassi,France,Sales
+101215,Emily Romano,London,Trading
+101216,Luca Chen,Italy,Sales
+101217,Giulia Ait Said,China,Trading
+101218,Wei Martin,Asia,Sales
+101219,Mei Rossi,Morocco,Trading
+101220,Hana Sharma,France,Sales
+101221,Arjun Bouziane,London,Trading
+101222,Karim Hughes,Italy,Sales
+101223,Salma Rinaldi,China,Trading
+101224,Pierre Amrani,Asia,Sales
+101225,Claire El Mansouri,Morocco,Trading
+101226,James El Fassi,France,Sales
+101227,Sophia Romano,London,Trading
+101228,Mario Chen,Italy,Sales
+101229,Elena Ait Said,China,Trading
+101230,Li Martin,Asia,Sales
+101231,Jian Rossi,Morocco,Trading
+101232,Ravi Sharma,France,Sales
+101233,Priya Bouziane,London,Trading
+101234,Omar Hughes,Italy,Sales
+101235,Hajar Rinaldi,China,Trading
+101236,Luc Amrani,Asia,Sales
+101237,Camille El Mansouri,Morocco,Trading
+101238,Oliver El Fassi,France,Sales
+101239,Charlotte Romano,London,Trading
+101240,Andrea Chen,Italy,Sales
+101241,Francesca Ait Said,China,Trading
+101242,Yang Martin,Asia,Sales
+101243,Ananya Rossi,Morocco,Trading
+101244,Dev Sharma,France,Sales
+101245,Yassine Bouziane,London,Trading
+101246,Imane Hughes,Italy,Sales
+101247,Antoine Rinaldi,China,Trading
+101248,Julie Amrani,Asia,Sales
+101249,Amir El Mansouri,Morocco,Trading
+101250,Sara El Fassi,France,Sales
+101251,Youssef Romano,London,Trading
+101252,Nadia Chen,Italy,Sales
+101253,Thomas Ait Said,China,Trading
+101254,Emily Martin,Asia,Sales
+101255,Luca Rossi,Morocco,Trading
+101256,Giulia Sharma,France,Sales
+101257,Wei Bouziane,London,Trading
+101258,Mei Hughes,Italy,Sales
+101259,Hana Rinaldi,China,Trading
+101260,Arjun Amrani,Asia,Sales
+101261,Karim El Mansouri,Morocco,Trading
+101262,Salma El Fassi,France,Sales
+101263,Pierre Romano,London,Trading
+101264,Claire Chen,Italy,Sales
+101265,James Ait Said,China,Trading
+101266,Sophia Martin,Asia,Sales
+101267,Mario Rossi,Morocco,Trading
+101268,Elena Sharma,France,Sales
+101269,Li Bouziane,London,Trading
+101270,Jian Hughes,Italy,Sales
+101271,Ravi Rinaldi,China,Trading
+101272,Priya Amrani,Asia,Sales
+101273,Omar El Mansouri,Morocco,Trading
+101274,Hajar El Fassi,France,Sales
+101275,Luc Romano,London,Trading
+101276,Camille Chen,Italy,Sales
+101277,Oliver Ait Said,China,Trading
+101278,Charlotte Martin,Asia,Sales
+101279,Andrea Rossi,Morocco,Trading
+101280,Francesca Sharma,France,Sales
+101281,Yang Bouziane,London,Trading
+101282,Ananya Hughes,Italy,Sales
+101283,Dev Rinaldi,China,Trading
+101284,Yassine Amrani,Asia,Sales
+101285,Imane El Mansouri,Morocco,Trading
+101286,Antoine El Fassi,France,Sales
+101287,Julie Romano,London,Trading
+101288,Amir Chen,Italy,Sales
+101289,Sara Ait Said,China,Trading
+101290,Youssef Martin,Asia,Sales
+101291,Nadia Rossi,Morocco,Trading
+101292,Thomas Sharma,France,Sales
+101293,Emily Bouziane,London,Trading
+101294,Luca Hughes,Italy,Sales
+101295,Giulia Rinaldi,China,Trading
+101296,Wei Amrani,Asia,Sales
+101297,Mei El Mansouri,Morocco,Trading
+101298,Hana El Fassi,France,Sales
+101299,Arjun Romano,London,Trading
+101300,Karim Chen,Italy,Sales
+101301,Salma Ait Said,China,Trading
+101302,Pierre Martin,Asia,Sales
+101303,Claire Rossi,Morocco,Trading
+101304,James Sharma,France,Sales
+101305,Sophia Bouziane,London,Trading
+101306,Mario Hughes,Italy,Sales
+101307,Elena Rinaldi,China,Trading
+101308,Li Amrani,Asia,Sales
+101309,Jian El Mansouri,Morocco,Trading
+101310,Ravi El Fassi,France,Sales
+101311,Priya Romano,London,Trading
+101312,Omar Chen,Italy,Sales
+101313,Hajar Ait Said,China,Trading
+101314,Luc Martin,Asia,Sales
+101315,Camille Rossi,Morocco,Trading
+101316,Oliver Sharma,France,Sales
+101317,Charlotte Bouziane,London,Trading
+101318,Andrea Hughes,Italy,Sales
+101319,Francesca Rinaldi,China,Trading
+101320,Yang Amrani,Asia,Sales
+101321,Ananya El Mansouri,Morocco,Trading
+101322,Dev El Fassi,France,Sales
+101323,Yassine Romano,London,Trading
+101324,Imane Chen,Italy,Sales
+101325,Antoine Ait Said,China,Trading
+101326,Julie Martin,Asia,Sales
+101327,Amir Rossi,Morocco,Trading
+101328,Sara Sharma,France,Sales
+101329,Youssef Bouziane,London,Trading
+101330,Nadia Hughes,Italy,Sales
+101331,Thomas Rinaldi,China,Trading
+101332,Emily Amrani,Asia,Sales
+101333,Luca El Mansouri,Morocco,Trading
+101334,Giulia El Fassi,France,Sales
+101335,Wei Romano,London,Trading
+101336,Mei Chen,Italy,Sales
+101337,Hana Ait Said,China,Trading
+101338,Arjun Martin,Asia,Sales
+101339,Karim Rossi,Morocco,Trading
+101340,Salma Sharma,France,Sales
+101341,Pierre Bouziane,London,Trading
+101342,Claire Hughes,Italy,Sales
+101343,James Rinaldi,China,Trading
+101344,Sophia Amrani,Asia,Sales
+101345,Mario El Mansouri,Morocco,Trading
+101346,Elena El Fassi,France,Sales
+101347,Li Romano,London,Trading
+101348,Jian Chen,Italy,Sales
+101349,Ravi Ait Said,China,Trading
+101350,Priya Martin,Asia,Sales
+101351,Omar Rossi,Morocco,Trading
+101352,Hajar Sharma,France,Sales
+101353,Luc Bouziane,London,Trading
+101354,Camille Hughes,Italy,Sales
+101355,Oliver Rinaldi,China,Trading
+101356,Charlotte Amrani,Asia,Sales
+101357,Andrea El Mansouri,Morocco,Trading
+101358,Francesca El Fassi,France,Sales
+101359,Yang Romano,London,Trading
+101360,Ananya Chen,Italy,Sales
+101361,Dev Ait Said,China,Trading
+101362,Yassine Martin,Asia,Sales
+101363,Imane Rossi,Morocco,Trading
+101364,Antoine Sharma,France,Sales
+101365,Julie Bouziane,London,Trading
+101366,Amir Hughes,Italy,Sales
+101367,Sara Rinaldi,China,Trading
+101368,Youssef Amrani,Asia,Sales
+101369,Nadia El Mansouri,Morocco,Trading
+101370,Thomas El Fassi,France,Sales
+101371,Emily Romano,London,Trading
+101372,Luca Chen,Italy,Sales
+101373,Giulia Ait Said,China,Trading
+101374,Wei Martin,Asia,Sales
+101375,Mei Rossi,Morocco,Trading
+101376,Hana Sharma,France,Sales
+101377,Arjun Bouziane,London,Trading
+101378,Karim Hughes,Italy,Sales
+101379,Salma Rinaldi,China,Trading
+101380,Pierre Amrani,Asia,Sales
+101381,Claire El Mansouri,Morocco,Trading
+101382,James El Fassi,France,Sales
+101383,Sophia Romano,London,Trading
+101384,Mario Chen,Italy,Sales
+101385,Elena Ait Said,China,Trading
+101386,Li Martin,Asia,Sales
+101387,Jian Rossi,Morocco,Trading
+101388,Ravi Sharma,France,Sales
+101389,Priya Bouziane,London,Trading
+101390,Omar Hughes,Italy,Sales
+101391,Hajar Rinaldi,China,Trading
+101392,Luc Amrani,Asia,Sales
+101393,Camille El Mansouri,Morocco,Trading
+101394,Oliver El Fassi,France,Sales
+101395,Charlotte Romano,London,Trading
+101396,Andrea Chen,Italy,Sales
+101397,Francesca Ait Said,China,Trading
+101398,Yang Martin,Asia,Sales
+101399,Ananya Rossi,Morocco,Trading
+101400,Dev Sharma,France,Sales
+101401,Yassine Bouziane,London,Trading
+101402,Imane Hughes,Italy,Sales
+101403,Antoine Rinaldi,China,Trading
+101404,Julie Amrani,Asia,Sales
+101405,Amir El Mansouri,Morocco,Trading
+101406,Sara El Fassi,France,Sales
+101407,Youssef Romano,London,Trading
+101408,Nadia Chen,Italy,Sales
+101409,Thomas Ait Said,China,Trading
+101410,Emily Martin,Asia,Sales
+101411,Luca Rossi,Morocco,Trading
+101412,Giulia Sharma,France,Sales
+101413,Wei Bouziane,London,Trading
+101414,Mei Hughes,Italy,Sales
+101415,Hana Rinaldi,China,Trading
+101416,Arjun Amrani,Asia,Sales
+101417,Karim El Mansouri,Morocco,Trading
+101418,Salma El Fassi,France,Sales
+101419,Pierre Romano,London,Trading
+101420,Claire Chen,Italy,Sales
+101421,James Ait Said,China,Trading
+101422,Sophia Martin,Asia,Sales
+101423,Mario Rossi,Morocco,Trading
+101424,Elena Sharma,France,Sales
+101425,Li Bouziane,London,Trading
+101426,Jian Hughes,Italy,Sales
+101427,Ravi Rinaldi,China,Trading
+101428,Priya Amrani,Asia,Sales
+101429,Omar El Mansouri,Morocco,Trading
+101430,Hajar El Fassi,France,Sales
+101431,Luc Romano,London,Trading
+101432,Camille Chen,Italy,Sales
+101433,Oliver Ait Said,China,Trading
+101434,Charlotte Martin,Asia,Sales
+101435,Andrea Rossi,Morocco,Trading
+101436,Francesca Sharma,France,Sales
+101437,Yang Bouziane,London,Trading
+101438,Ananya Hughes,Italy,Sales
+101439,Dev Rinaldi,China,Trading
+101440,Yassine Amrani,Asia,Sales
+101441,Imane El Mansouri,Morocco,Trading
+101442,Antoine El Fassi,France,Sales
+101443,Julie Romano,London,Trading
+101444,Amir Chen,Italy,Sales
+101445,Sara Ait Said,China,Trading
+101446,Youssef Martin,Asia,Sales
+101447,Nadia Rossi,Morocco,Trading
+101448,Thomas Sharma,France,Sales
+101449,Emily Bouziane,London,Trading
+101450,Luca Hughes,Italy,Sales
+101451,Giulia Rinaldi,China,Trading
+101452,Wei Amrani,Asia,Sales
+101453,Mei El Mansouri,Morocco,Trading
+101454,Hana El Fassi,France,Sales
+101455,Arjun Romano,London,Trading
+101456,Karim Chen,Italy,Sales
+101457,Salma Ait Said,China,Trading
+101458,Pierre Martin,Asia,Sales
+101459,Claire Rossi,Morocco,Trading
+101460,James Sharma,France,Sales
+101461,Sophia Bouziane,London,Trading
+101462,Mario Hughes,Italy,Sales
+101463,Elena Rinaldi,China,Trading
+101464,Li Amrani,Asia,Sales
+101465,Jian El Mansouri,Morocco,Trading
+101466,Ravi El Fassi,France,Sales
+101467,Priya Romano,London,Trading
+101468,Omar Chen,Italy,Sales
+101469,Hajar Ait Said,China,Trading
+101470,Luc Martin,Asia,Sales
+101471,Camille Rossi,Morocco,Trading
+101472,Oliver Sharma,France,Sales
+101473,Charlotte Bouziane,London,Trading
+101474,Andrea Hughes,Italy,Sales
+101475,Francesca Rinaldi,China,Trading
+101476,Yang Amrani,Asia,Sales
+101477,Ananya El Mansouri,Morocco,Trading
+101478,Dev El Fassi,France,Sales
+101479,Yassine Romano,London,Trading
+101480,Imane Chen,Italy,Sales
+101481,Antoine Ait Said,China,Trading
+101482,Julie Martin,Asia,Sales
+101483,Amir Rossi,Morocco,Trading
+101484,Sara Sharma,France,Sales
+101485,Youssef Bouziane,London,Trading
+101486,Nadia Hughes,Italy,Sales
+101487,Thomas Rinaldi,China,Trading
+101488,Emily Amrani,Asia,Sales
+101489,Luca El Mansouri,Morocco,Trading
+101490,Giulia El Fassi,France,Sales
+101491,Wei Romano,London,Trading
+101492,Mei Chen,Italy,Sales
+101493,Hana Ait Said,China,Trading
+101494,Arjun Martin,Asia,Sales
+101495,Karim Rossi,Morocco,Trading
+101496,Salma Sharma,France,Sales
+101497,Pierre Bouziane,London,Trading
+101498,Claire Hughes,Italy,Sales
+101499,James Rinaldi,China,Trading
+101500,Sophia Amrani,Asia,Sales
+101501,Mario El Mansouri,Morocco,Trading
+101502,Elena El Fassi,France,Sales
+101503,Li Romano,London,Trading
+101504,Jian Chen,Italy,Sales
+101505,Ravi Ait Said,China,Trading
+101506,Priya Martin,Asia,Sales
+101507,Omar Rossi,Morocco,Trading
+101508,Hajar Sharma,France,Sales
+101509,Luc Bouziane,London,Trading
+101510,Camille Hughes,Italy,Sales
+101511,Oliver Rinaldi,China,Trading
+101512,Charlotte Amrani,Asia,Sales
+101513,Andrea El Mansouri,Morocco,Trading
+101514,Francesca El Fassi,France,Sales
+101515,Yang Romano,London,Trading
+101516,Ananya Chen,Italy,Sales
+101517,Dev Ait Said,China,Trading
+101518,Yassine Martin,Asia,Sales
+101519,Imane Rossi,Morocco,Trading
+101520,Antoine Sharma,France,Sales
+101521,Julie Bouziane,London,Trading
+101522,Amir Hughes,Italy,Sales
+101523,Sara Rinaldi,China,Trading
+101524,Youssef Amrani,Asia,Sales
+101525,Nadia El Mansouri,Morocco,Trading
+101526,Thomas El Fassi,France,Sales
+101527,Emily Romano,London,Trading
+101528,Luca Chen,Italy,Sales
+101529,Giulia Ait Said,China,Trading
+101530,Wei Martin,Asia,Sales
+101531,Mei Rossi,Morocco,Trading
+101532,Hana Sharma,France,Sales
+101533,Arjun Bouziane,London,Trading
+101534,Karim Hughes,Italy,Sales
+101535,Salma Rinaldi,China,Trading
+101536,Pierre Amrani,Asia,Sales
+101537,Claire El Mansouri,Morocco,Trading
+101538,James El Fassi,France,Sales
+101539,Sophia Romano,London,Trading
+101540,Mario Chen,Italy,Sales
+101541,Elena Ait Said,China,Trading
+101542,Li Martin,Asia,Sales
+101543,Jian Rossi,Morocco,Trading
+101544,Ravi Sharma,France,Sales
+101545,Priya Bouziane,London,Trading
+101546,Omar Hughes,Italy,Sales
+101547,Hajar Rinaldi,China,Trading
+101548,Luc Amrani,Asia,Sales
+101549,Camille El Mansouri,Morocco,Trading
+101550,Oliver El Fassi,France,Sales
+101551,Charlotte Romano,London,Trading
+101552,Andrea Chen,Italy,Sales
+101553,Francesca Ait Said,China,Trading
+101554,Yang Martin,Asia,Sales
+101555,Ananya Rossi,Morocco,Trading
+101556,Dev Sharma,France,Sales
+101557,Yassine Bouziane,London,Trading
+101558,Imane Hughes,Italy,Sales
+101559,Antoine Rinaldi,China,Trading
+101560,Julie Amrani,Asia,Sales
+101561,Amir El Mansouri,Morocco,Trading
+101562,Sara El Fassi,France,Sales
+101563,Youssef Romano,London,Trading
+101564,Nadia Chen,Italy,Sales
+101565,Thomas Ait Said,China,Trading
+101566,Emily Martin,Asia,Sales
+101567,Luca Rossi,Morocco,Trading
+101568,Giulia Sharma,France,Sales
+101569,Wei Bouziane,London,Trading
+101570,Mei Hughes,Italy,Sales
+101571,Hana Rinaldi,China,Trading
+101572,Arjun Amrani,Asia,Sales
+101573,Karim El Mansouri,Morocco,Trading
+101574,Salma El Fassi,France,Sales
+101575,Pierre Romano,London,Trading
+101576,Claire Chen,Italy,Sales
+101577,James Ait Said,China,Trading
+101578,Sophia Martin,Asia,Sales
+101579,Mario Rossi,Morocco,Trading
+101580,Elena Sharma,France,Sales
+101581,Li Bouziane,London,Trading
+101582,Jian Hughes,Italy,Sales
+101583,Ravi Rinaldi,China,Trading
+101584,Priya Amrani,Asia,Sales
+101585,Omar El Mansouri,Morocco,Trading
+101586,Hajar El Fassi,France,Sales
+101587,Luc Romano,London,Trading
+101588,Camille Chen,Italy,Sales
+101589,Oliver Ait Said,China,Trading
+101590,Charlotte Martin,Asia,Sales
+101591,Andrea Rossi,Morocco,Trading
+101592,Francesca Sharma,France,Sales
+101593,Yang Bouziane,London,Trading
+101594,Ananya Hughes,Italy,Sales
+101595,Dev Rinaldi,China,Trading
+101596,Yassine Amrani,Asia,Sales
+101597,Imane El Mansouri,Morocco,Trading
+101598,Antoine El Fassi,France,Sales
+101599,Julie Romano,London,Trading
+101600,Amir Chen,Italy,Sales
+101601,Sara Ait Said,China,Trading
+101602,Youssef Martin,Asia,Sales
+101603,Nadia Rossi,Morocco,Trading
+101604,Thomas Sharma,France,Sales
+101605,Emily Bouziane,London,Trading
+101606,Luca Hughes,Italy,Sales
+101607,Giulia Rinaldi,China,Trading
+101608,Wei Amrani,Asia,Sales
+101609,Mei El Mansouri,Morocco,Trading
+101610,Hana El Fassi,France,Sales
+101611,Arjun Romano,London,Trading
+101612,Karim Chen,Italy,Sales
+101613,Salma Ait Said,China,Trading
+101614,Pierre Martin,Asia,Sales
+101615,Claire Rossi,Morocco,Trading
+101616,James Sharma,France,Sales
+101617,Sophia Bouziane,London,Trading
+101618,Mario Hughes,Italy,Sales
+101619,Elena Rinaldi,China,Trading
+101620,Li Amrani,Asia,Sales
+101621,Jian El Mansouri,Morocco,Trading
+101622,Ravi El Fassi,France,Sales
+101623,Priya Romano,London,Trading
+101624,Omar Chen,Italy,Sales
+101625,Hajar Ait Said,China,Trading
+101626,Luc Martin,Asia,Sales
+101627,Camille Rossi,Morocco,Trading
+101628,Oliver Sharma,France,Sales
+101629,Charlotte Bouziane,London,Trading
+101630,Andrea Hughes,Italy,Sales
+101631,Francesca Rinaldi,China,Trading
+101632,Yang Amrani,Asia,Sales
+101633,Ananya El Mansouri,Morocco,Trading
+101634,Dev El Fassi,France,Sales
+101635,Yassine Romano,London,Trading
+101636,Imane Chen,Italy,Sales
+101637,Antoine Ait Said,China,Trading
+101638,Julie Martin,Asia,Sales
+101639,Amir Rossi,Morocco,Trading
+101640,Sara Sharma,France,Sales
+101641,Youssef Bouziane,London,Trading
+101642,Nadia Hughes,Italy,Sales
+101643,Thomas Rinaldi,China,Trading
+101644,Emily Amrani,Asia,Sales
+101645,Luca El Mansouri,Morocco,Trading
+101646,Giulia El Fassi,France,Sales
+101647,Wei Romano,London,Trading
+101648,Mei Chen,Italy,Sales
+101649,Hana Ait Said,China,Trading
+101650,Arjun Martin,Asia,Sales
+101651,Karim Rossi,Morocco,Trading
+101652,Salma Sharma,France,Sales
+101653,Pierre Bouziane,London,Trading
+101654,Claire Hughes,Italy,Sales
+101655,James Rinaldi,China,Trading
+101656,Sophia Amrani,Asia,Sales
+101657,Mario El Mansouri,Morocco,Trading
+101658,Elena El Fassi,France,Sales
+101659,Li Romano,London,Trading
+101660,Jian Chen,Italy,Sales
+101661,Ravi Ait Said,China,Trading
+101662,Priya Martin,Asia,Sales
+101663,Omar Rossi,Morocco,Trading
+101664,Hajar Sharma,France,Sales
+101665,Luc Bouziane,London,Trading
+101666,Camille Hughes,Italy,Sales
+101667,Oliver Rinaldi,China,Trading
+101668,Charlotte Amrani,Asia,Sales
+101669,Andrea El Mansouri,Morocco,Trading
+101670,Francesca El Fassi,France,Sales
+101671,Yang Romano,London,Trading
+101672,Ananya Chen,Italy,Sales
+101673,Dev Ait Said,China,Trading
+101674,Yassine Martin,Asia,Sales
+101675,Imane Rossi,Morocco,Trading
+101676,Antoine Sharma,France,Sales
+101677,Julie Bouziane,London,Trading
+101678,Amir Hughes,Italy,Sales
+101679,Sara Rinaldi,China,Trading
+101680,Youssef Amrani,Asia,Sales
+101681,Nadia El Mansouri,Morocco,Trading
+101682,Thomas El Fassi,France,Sales
+101683,Emily Romano,London,Trading
+101684,Luca Chen,Italy,Sales
+101685,Giulia Ait Said,China,Trading
+101686,Wei Martin,Asia,Sales
+101687,Mei Rossi,Morocco,Trading
+101688,Hana Sharma,France,Sales
+101689,Arjun Bouziane,London,Trading
+101690,Karim Hughes,Italy,Sales
+101691,Salma Rinaldi,China,Trading
+101692,Pierre Amrani,Asia,Sales
+101693,Claire El Mansouri,Morocco,Trading
+101694,James El Fassi,France,Sales
+101695,Sophia Romano,London,Trading
+101696,Mario Chen,Italy,Sales
+101697,Elena Ait Said,China,Trading
+101698,Li Martin,Asia,Sales
+101699,Jian Rossi,Morocco,Trading
+101700,Ravi Sharma,France,Sales
+101701,Priya Bouziane,London,Trading
+101702,Omar Hughes,Italy,Sales
+101703,Hajar Rinaldi,China,Trading
+101704,Luc Amrani,Asia,Sales
+101705,Camille El Mansouri,Morocco,Trading
+101706,Oliver El Fassi,France,Sales
+101707,Charlotte Romano,London,Trading
+101708,Andrea Chen,Italy,Sales
+101709,Francesca Ait Said,China,Trading
+101710,Yang Martin,Asia,Sales
+101711,Ananya Rossi,Morocco,Trading
+101712,Dev Sharma,France,Sales
+101713,Yassine Bouziane,London,Trading
+101714,Imane Hughes,Italy,Sales
+101715,Antoine Rinaldi,China,Trading
+101716,Julie Amrani,Asia,Sales
+101717,Amir El Mansouri,Morocco,Trading
+101718,Sara El Fassi,France,Sales
+101719,Youssef Romano,London,Trading
+101720,Nadia Chen,Italy,Sales
+101721,Thomas Ait Said,China,Trading
+101722,Emily Martin,Asia,Sales
+101723,Luca Rossi,Morocco,Trading
+101724,Giulia Sharma,France,Sales
+101725,Wei Bouziane,London,Trading
+101726,Mei Hughes,Italy,Sales
+101727,Hana Rinaldi,China,Trading
+101728,Arjun Amrani,Asia,Sales
+101729,Karim El Mansouri,Morocco,Trading
+101730,Salma El Fassi,France,Sales
+101731,Pierre Romano,London,Trading
+101732,Claire Chen,Italy,Sales
+101733,James Ait Said,China,Trading
+101734,Sophia Martin,Asia,Sales
+101735,Mario Rossi,Morocco,Trading
+101736,Elena Sharma,France,Sales
+101737,Li Bouziane,London,Trading
+101738,Jian Hughes,Italy,Sales
+101739,Ravi Rinaldi,China,Trading
+101740,Priya Amrani,Asia,Sales
+101741,Omar El Mansouri,Morocco,Trading
+101742,Hajar El Fassi,France,Sales
+101743,Luc Romano,London,Trading
+101744,Camille Chen,Italy,Sales
+101745,Oliver Ait Said,China,Trading
+101746,Charlotte Martin,Asia,Sales
+101747,Andrea Rossi,Morocco,Trading
+101748,Francesca Sharma,France,Sales
+101749,Yang Bouziane,London,Trading
+101750,Ananya Hughes,Italy,Sales
+101751,Dev Rinaldi,China,Trading
+101752,Yassine Amrani,Asia,Sales
+101753,Imane El Mansouri,Morocco,Trading
+101754,Antoine El Fassi,France,Sales
+101755,Julie Romano,London,Trading
+101756,Amir Chen,Italy,Sales
+101757,Sara Ait Said,China,Trading
+101758,Youssef Martin,Asia,Sales
+101759,Nadia Rossi,Morocco,Trading
+101760,Thomas Sharma,France,Sales
+101761,Emily Bouziane,London,Trading
+101762,Luca Hughes,Italy,Sales
+101763,Giulia Rinaldi,China,Trading
+101764,Wei Amrani,Asia,Sales
+101765,Mei El Mansouri,Morocco,Trading
+101766,Hana El Fassi,France,Sales
+101767,Arjun Romano,London,Trading
+101768,Karim Chen,Italy,Sales
+101769,Salma Ait Said,China,Trading
+101770,Pierre Martin,Asia,Sales
+101771,Claire Rossi,Morocco,Trading
+101772,James Sharma,France,Sales
+101773,Sophia Bouziane,London,Trading
+101774,Mario Hughes,Italy,Sales
+101775,Elena Rinaldi,China,Trading
+101776,Li Amrani,Asia,Sales
+101777,Jian El Mansouri,Morocco,Trading
+101778,Ravi El Fassi,France,Sales
+101779,Priya Romano,London,Trading
+101780,Omar Chen,Italy,Sales
+101781,Hajar Ait Said,China,Trading
+101782,Luc Martin,Asia,Sales
+101783,Camille Rossi,Morocco,Trading
+101784,Oliver Sharma,France,Sales
+101785,Charlotte Bouziane,London,Trading
+101786,Andrea Hughes,Italy,Sales
+101787,Francesca Rinaldi,China,Trading
+101788,Yang Amrani,Asia,Sales
+101789,Ananya El Mansouri,Morocco,Trading
+101790,Dev El Fassi,France,Sales
+101791,Yassine Romano,London,Trading
+101792,Imane Chen,Italy,Sales
+101793,Antoine Ait Said,China,Trading
+101794,Julie Martin,Asia,Sales
+101795,Amir Rossi,Morocco,Trading
+101796,Sara Sharma,France,Sales
+101797,Youssef Bouziane,London,Trading
+101798,Nadia Hughes,Italy,Sales
+101799,Thomas Rinaldi,China,Trading
+101800,Emily Amrani,Asia,Sales
+101801,Luca El Mansouri,Morocco,Trading
+101802,Giulia El Fassi,France,Sales
+101803,Wei Romano,London,Trading
+101804,Mei Chen,Italy,Sales
+101805,Hana Ait Said,China,Trading
+101806,Arjun Martin,Asia,Sales
+101807,Karim Rossi,Morocco,Trading
+101808,Salma Sharma,France,Sales
+101809,Pierre Bouziane,London,Trading
+101810,Claire Hughes,Italy,Sales
+101811,James Rinaldi,China,Trading
+101812,Sophia Amrani,Asia,Sales
+101813,Mario El Mansouri,Morocco,Trading
+101814,Elena El Fassi,France,Sales
+101815,Li Romano,London,Trading
+101816,Jian Chen,Italy,Sales
+101817,Ravi Ait Said,China,Trading
+101818,Priya Martin,Asia,Sales
+101819,Omar Rossi,Morocco,Trading
+101820,Hajar Sharma,France,Sales
+101821,Luc Bouziane,London,Trading
+101822,Camille Hughes,Italy,Sales
+101823,Oliver Rinaldi,China,Trading
+101824,Charlotte Amrani,Asia,Sales
+101825,Andrea El Mansouri,Morocco,Trading
+101826,Francesca El Fassi,France,Sales
+101827,Yang Romano,London,Trading
+101828,Ananya Chen,Italy,Sales
+101829,Dev Ait Said,China,Trading
+101830,Yassine Martin,Asia,Sales
+101831,Imane Rossi,Morocco,Trading
+101832,Antoine Sharma,France,Sales
+101833,Julie Bouziane,London,Trading
+101834,Amir Hughes,Italy,Sales
+101835,Sara Rinaldi,China,Trading
+101836,Youssef Amrani,Asia,Sales
+101837,Nadia El Mansouri,Morocco,Trading
+101838,Thomas El Fassi,France,Sales
+101839,Emily Romano,London,Trading
+101840,Luca Chen,Italy,Sales
+101841,Giulia Ait Said,China,Trading
+101842,Wei Martin,Asia,Sales
+101843,Mei Rossi,Morocco,Trading
+101844,Hana Sharma,France,Sales
+101845,Arjun Bouziane,London,Trading
+101846,Karim Hughes,Italy,Sales
+101847,Salma Rinaldi,China,Trading
+101848,Pierre Amrani,Asia,Sales
+101849,Claire El Mansouri,Morocco,Trading
+101850,James El Fassi,France,Sales
+101851,Sophia Romano,London,Trading
+101852,Mario Chen,Italy,Sales
+101853,Elena Ait Said,China,Trading
+101854,Li Martin,Asia,Sales
+101855,Jian Rossi,Morocco,Trading
+101856,Ravi Sharma,France,Sales
+101857,Priya Bouziane,London,Trading
+101858,Omar Hughes,Italy,Sales
+101859,Hajar Rinaldi,China,Trading
+101860,Luc Amrani,Asia,Sales
+101861,Camille El Mansouri,Morocco,Trading
+101862,Oliver El Fassi,France,Sales
+101863,Charlotte Romano,London,Trading
+101864,Andrea Chen,Italy,Sales
+101865,Francesca Ait Said,China,Trading
+101866,Yang Martin,Asia,Sales
+101867,Ananya Rossi,Morocco,Trading
+101868,Dev Sharma,France,Sales
+101869,Yassine Bouziane,London,Trading
+101870,Imane Hughes,Italy,Sales
+101871,Antoine Rinaldi,China,Trading
+101872,Julie Amrani,Asia,Sales
+101873,Amir El Mansouri,Morocco,Trading
+101874,Sara El Fassi,France,Sales
+101875,Youssef Romano,London,Trading
+101876,Nadia Chen,Italy,Sales
+101877,Thomas Ait Said,China,Trading
+101878,Emily Martin,Asia,Sales
+101879,Luca Rossi,Morocco,Trading
+101880,Giulia Sharma,France,Sales
+101881,Wei Bouziane,London,Trading
+101882,Mei Hughes,Italy,Sales
+101883,Hana Rinaldi,China,Trading
+101884,Arjun Amrani,Asia,Sales
+101885,Karim El Mansouri,Morocco,Trading
+101886,Salma El Fassi,France,Sales
+101887,Pierre Romano,London,Trading
+101888,Claire Chen,Italy,Sales
+101889,James Ait Said,China,Trading
+101890,Sophia Martin,Asia,Sales
+101891,Mario Rossi,Morocco,Trading
+101892,Elena Sharma,France,Sales
+101893,Li Bouziane,London,Trading
+101894,Jian Hughes,Italy,Sales
+101895,Ravi Rinaldi,China,Trading
+101896,Priya Amrani,Asia,Sales
+101897,Omar El Mansouri,Morocco,Trading
+101898,Hajar El Fassi,France,Sales
+101899,Luc Romano,London,Trading
+101900,Camille Chen,Italy,Sales
+101901,Oliver Ait Said,China,Trading
+101902,Charlotte Martin,Asia,Sales
+101903,Andrea Rossi,Morocco,Trading
+101904,Francesca Sharma,France,Sales
+101905,Yang Bouziane,London,Trading
+101906,Ananya Hughes,Italy,Sales
+101907,Dev Rinaldi,China,Trading
+101908,Yassine Amrani,Asia,Sales
+101909,Imane El Mansouri,Morocco,Trading
+101910,Antoine El Fassi,France,Sales
+101911,Julie Romano,London,Trading
+101912,Amir Chen,Italy,Sales
+101913,Sara Ait Said,China,Trading
+101914,Youssef Martin,Asia,Sales
+101915,Nadia Rossi,Morocco,Trading
+101916,Thomas Sharma,France,Sales
+101917,Emily Bouziane,London,Trading
+101918,Luca Hughes,Italy,Sales
+101919,Giulia Rinaldi,China,Trading
+101920,Wei Amrani,Asia,Sales
+101921,Mei El Mansouri,Morocco,Trading
+101922,Hana El Fassi,France,Sales
+101923,Arjun Romano,London,Trading
+101924,Karim Chen,Italy,Sales
+101925,Salma Ait Said,China,Trading
+101926,Pierre Martin,Asia,Sales
+101927,Claire Rossi,Morocco,Trading
+101928,James Sharma,France,Sales
+101929,Sophia Bouziane,London,Trading
+101930,Mario Hughes,Italy,Sales
+101931,Elena Rinaldi,China,Trading
+101932,Li Amrani,Asia,Sales
+101933,Jian El Mansouri,Morocco,Trading
+101934,Ravi El Fassi,France,Sales
+101935,Priya Romano,London,Trading
+101936,Omar Chen,Italy,Sales
+101937,Hajar Ait Said,China,Trading
+101938,Luc Martin,Asia,Sales
+101939,Camille Rossi,Morocco,Trading
+101940,Oliver Sharma,France,Sales
+101941,Charlotte Bouziane,London,Trading
+101942,Andrea Hughes,Italy,Sales
+101943,Francesca Rinaldi,China,Trading
+101944,Yang Amrani,Asia,Sales
+101945,Ananya El Mansouri,Morocco,Trading
+101946,Dev El Fassi,France,Sales
+101947,Yassine Romano,London,Trading
+101948,Imane Chen,Italy,Sales
+101949,Antoine Ait Said,China,Trading
+101950,Julie Martin,Asia,Sales
+101951,Amir Rossi,Morocco,Trading
+101952,Sara Sharma,France,Sales
+101953,Youssef Bouziane,London,Trading
+101954,Nadia Hughes,Italy,Sales
+101955,Thomas Rinaldi,China,Trading
+101956,Emily Amrani,Asia,Sales
+101957,Luca El Mansouri,Morocco,Trading
+101958,Giulia El Fassi,France,Sales
+101959,Wei Romano,London,Trading
+101960,Mei Chen,Italy,Sales
+101961,Hana Ait Said,China,Trading
+101962,Arjun Martin,Asia,Sales
+101963,Karim Rossi,Morocco,Trading
+101964,Salma Sharma,France,Sales
+101965,Pierre Bouziane,London,Trading
+101966,Claire Hughes,Italy,Sales
+101967,James Rinaldi,China,Trading
+101968,Sophia Amrani,Asia,Sales
+101969,Mario El Mansouri,Morocco,Trading
+101970,Elena El Fassi,France,Sales
+101971,Li Romano,London,Trading
+101972,Jian Chen,Italy,Sales
+101973,Ravi Ait Said,China,Trading
+101974,Priya Martin,Asia,Sales
+101975,Omar Rossi,Morocco,Trading
+101976,Hajar Sharma,France,Sales
+101977,Luc Bouziane,London,Trading
+101978,Camille Hughes,Italy,Sales
+101979,Oliver Rinaldi,China,Trading
+101980,Charlotte Amrani,Asia,Sales
+101981,Andrea El Mansouri,Morocco,Trading
+101982,Francesca El Fassi,France,Sales
+101983,Yang Romano,London,Trading
+101984,Ananya Chen,Italy,Sales
+101985,Dev Ait Said,China,Trading
+101986,Yassine Martin,Asia,Sales
+101987,Imane Rossi,Morocco,Trading
+101988,Antoine Sharma,France,Sales
+101989,Julie Bouziane,London,Trading
+101990,Amir Hughes,Italy,Sales
+101991,Sara Rinaldi,China,Trading
+101992,Youssef Amrani,Asia,Sales
+101993,Nadia El Mansouri,Morocco,Trading
+101994,Thomas El Fassi,France,Sales
+101995,Emily Romano,London,Trading
+101996,Luca Chen,Italy,Sales
+101997,Giulia Ait Said,China,Trading
+101998,Wei Martin,Asia,Sales
+101999,Mei Rossi,Morocco,Trading
+102000,Hana Sharma,France,Sales

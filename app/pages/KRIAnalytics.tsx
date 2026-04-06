@@ -17,6 +17,9 @@ import {
   Tooltip,
   Legend,
   TooltipProps,
+  PieChart,
+  Pie,
+  Cell,
 } from 'recharts';
 import { NameType, ValueType } from 'recharts/types/component/DefaultTooltipContent';
 
@@ -42,6 +45,17 @@ interface PivotRow {
 interface AnalyticsRes {
   table: PivotRow[];
   time: string[];
+  kris: string[];
+}
+
+interface BlKriItem {
+  kri: string;
+  bl: string | null;
+}
+
+interface BlPieItem {
+  name: string;
+  value: number;
   kris: string[];
 }
 
@@ -79,6 +93,7 @@ export default function KRIAnalytics() {
   const [insights, setInsights] = useState<KriInsights | null>(null);
   const [topOffenders, setTopOffenders] = useState<TopOffender[]>([]);
   const [analytics, setAnalytics] = useState<AnalyticsRes | null>(null);
+  const [blData, setBlData] = useState<BlKriItem[]>([]);
 
   const [selectedKri, setSelectedKri] = useState<string>('');
   const [selectedKris, setSelectedKris] = useState<string[]>([]);
@@ -92,15 +107,17 @@ export default function KRIAnalytics() {
         setLoading(true);
         setError(null);
 
-        const [ins, top, aly] = await Promise.all([
+        const [ins, top, aly, bl] = await Promise.all([
           apiFetch<KriInsights>('/KriInsights'),
           apiFetch<TopOffender[]>('/kri/top-offenders'),
           apiFetch<AnalyticsRes>('/KriAnalytics'),
+          apiFetch<BlKriItem[]>('/bl'),
         ]);
 
         setInsights(ins);
         setTopOffenders(top);
         setAnalytics(aly);
+        setBlData(bl);
 
         if (top.length > 0) {
           setSelectedKri(top[0].kri);
@@ -140,6 +157,23 @@ export default function KRIAnalytics() {
       })
       .sort((a, b) => String(a.date).localeCompare(String(b.date)));
   }, [analytics, selectedKris]);
+
+  const blPieData = useMemo(() => {
+    if (!blData.length) return [];
+
+    const grouped = blData.reduce<Record<string, string[]>>((acc, item) => {
+      const bl = item.bl || 'Unknown';
+      if (!acc[bl]) acc[bl] = [];
+      acc[bl].push(item.kri);
+      return acc;
+    }, {});
+
+    return Object.entries(grouped).map(([name, kris]) => ({
+      name,
+      value: kris.length,
+      kris,
+    }));
+  }, [blData]);
 
   const selectAllKris = () => {
     if (!analytics) return;
@@ -337,6 +371,46 @@ export default function KRIAnalytics() {
             )}
           </div>
         </section>
+
+        {/* KRI vs Business Line */}
+        <section className="rounded-[28px] border border-white/5 bg-slate-900/40 p-8 backdrop-blur-xl">
+          <div className="mb-6">
+            <h2 className="text-xl font-semibold text-white">KRI vs Business Line</h2>
+            <p className="mt-1 text-sm text-slate-400">
+              Distribution of KRIs across business lines.
+            </p>
+          </div>
+
+          <div className="h-[460px] rounded-[28px] border border-white/5 bg-[#07111f] p-6">
+            {blPieData.length > 0 ? (
+              <ResponsiveContainer width="100%" height="100%">
+                <PieChart>
+                  <Pie
+                    data={blPieData}
+                    dataKey="value"
+                    nameKey="name"
+                    cx="50%"
+                    cy="50%"
+                    outerRadius={150}
+                    innerRadius={80}
+                    paddingAngle={4}
+                    label
+                  >
+                    {blPieData.map((_, index) => (
+                      <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                    ))}
+                  </Pie>
+                  <Tooltip content={<BusinessLineTooltip />} />
+                  <Legend />
+                </PieChart>
+              </ResponsiveContainer>
+            ) : (
+              <div className="flex h-full items-center justify-center text-slate-400">
+                No business line data available.
+              </div>
+            )}
+          </div>
+        </section>
       </div>
     </DashboardLayout>
   );
@@ -453,7 +527,7 @@ function KriMultiSelect({ options, selected, onChange }: KriMultiSelectProps) {
 }
 
 // =====================
-// Custom Tooltip
+// Tooltip: stacked bar
 // =====================
 function CustomTooltip({ active, payload, label }: TooltipProps<ValueType, NameType>) {
   if (!active || !payload || payload.length === 0) return null;
@@ -468,6 +542,26 @@ function CustomTooltip({ active, payload, label }: TooltipProps<ValueType, NameT
             <span className="font-semibold text-white">{item.value as number}</span>
           </div>
         ))}
+      </div>
+    </div>
+  );
+}
+
+// =====================
+// Tooltip: business line pie
+// =====================
+function BusinessLineTooltip({ active, payload }: TooltipProps<ValueType, NameType>) {
+  if (!active || !payload || payload.length === 0) return null;
+
+  const data = payload[0].payload as BlPieItem;
+
+  return (
+    <div className="max-w-sm rounded-2xl border border-white/10 bg-slate-950 px-4 py-3 shadow-2xl">
+      <p className="text-sm font-semibold text-white">{data.name}</p>
+      <p className="mt-1 text-sm text-slate-300">{data.value} KRIs</p>
+      <p className="mt-2 text-xs uppercase tracking-widest text-slate-500">KRIs</p>
+      <div className="mt-1 max-h-24 overflow-y-auto text-xs text-slate-400">
+        {data.kris.join(', ')}
       </div>
     </div>
   );
