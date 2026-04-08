@@ -1,7 +1,7 @@
-pandas 
-pandera 
-uvicorn 
-fastapi 
-numpy 
-psycopg2
-typing
+pandas
+pandera
+uvicorn[standard]
+fastapi
+numpy
+psycopg2-binary
+typing-extensions
