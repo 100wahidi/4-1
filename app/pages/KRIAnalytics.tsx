@@ -53,6 +53,11 @@ interface BlKriItem {
   bl: string | null;
 }
 
+interface EmployeeRegionKriItem {
+  kri: string;
+  employee_region: string | null;
+}
+
 interface BlPieItem {
   name: string;
   value: number;
@@ -94,6 +99,7 @@ export default function KRIAnalytics() {
   const [topOffenders, setTopOffenders] = useState<TopOffender[]>([]);
   const [analytics, setAnalytics] = useState<AnalyticsRes | null>(null);
   const [blData, setBlData] = useState<BlKriItem[]>([]);
+  const [employeeRegionData, setEmployeeRegionData] = useState<EmployeeRegionKriItem[]>([]);
 
   const [selectedKri, setSelectedKri] = useState<string>('');
   const [selectedKris, setSelectedKris] = useState<string[]>([]);
@@ -107,17 +113,19 @@ export default function KRIAnalytics() {
         setLoading(true);
         setError(null);
 
-        const [ins, top, aly, bl] = await Promise.all([
+        const [ins, top, aly, bl, empRegion] = await Promise.all([
           apiFetch<KriInsights>('/KriInsights'),
           apiFetch<TopOffender[]>('/kri/top-offenders'),
           apiFetch<AnalyticsRes>('/KriAnalytics'),
           apiFetch<BlKriItem[]>('/bl'),
+          apiFetch<EmployeeRegionKriItem[]>('/kri_employee_region'),
         ]);
 
         setInsights(ins);
         setTopOffenders(top);
         setAnalytics(aly);
         setBlData(bl);
+        setEmployeeRegionData(empRegion);
 
         if (top.length > 0) {
           setSelectedKri(top[0].kri);
@@ -174,6 +182,23 @@ export default function KRIAnalytics() {
       kris,
     }));
   }, [blData]);
+
+  const employeeRegionPieData = useMemo(() => {
+    if (!employeeRegionData.length) return [];
+
+    const grouped = employeeRegionData.reduce<Record<string, string[]>>((acc, item) => {
+      const region = item.employee_region || 'Unknown';
+      if (!acc[region]) acc[region] = [];
+      acc[region].push(item.kri);
+      return acc;
+    }, {});
+
+    return Object.entries(grouped).map(([name, kris]) => ({
+      name,
+      value: kris.length,
+      kris,
+    }));
+  }, [employeeRegionData]);
 
   const selectAllKris = () => {
     if (!analytics) return;
@@ -407,6 +432,46 @@ export default function KRIAnalytics() {
             ) : (
               <div className="flex h-full items-center justify-center text-slate-400">
                 No business line data available.
+              </div>
+            )}
+          </div>
+        </section>
+
+        {/* KRI vs Employee Region */}
+        <section className="rounded-[28px] border border-white/5 bg-slate-900/40 p-8 backdrop-blur-xl">
+          <div className="mb-6">
+            <h2 className="text-xl font-semibold text-white">KRI vs Employee Region</h2>
+            <p className="mt-1 text-sm text-slate-400">
+              Distribution of KRIs across employee regions.
+            </p>
+          </div>
+
+          <div className="h-[460px] rounded-[28px] border border-white/5 bg-[#07111f] p-6">
+            {employeeRegionPieData.length > 0 ? (
+              <ResponsiveContainer width="100%" height="100%">
+                <PieChart>
+                  <Pie
+                    data={employeeRegionPieData}
+                    dataKey="value"
+                    nameKey="name"
+                    cx="50%"
+                    cy="50%"
+                    outerRadius={150}
+                    innerRadius={80}
+                    paddingAngle={4}
+                    label
+                  >
+                    {employeeRegionPieData.map((_, index) => (
+                      <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                    ))}
+                  </Pie>
+                  <Tooltip content={<BusinessLineTooltip />} />
+                  <Legend />
+                </PieChart>
+              </ResponsiveContainer>
+            ) : (
+              <div className="flex h-full items-center justify-center text-slate-400">
+                No region data available.
               </div>
             )}
           </div>
